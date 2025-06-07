@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "versione": "v22",
+    "data_creazione": "2025-06-06T05:46:40.714878",
+    "autore": "Francesco",
+    "note": "File master completo aggiornato alla versione 22 con tutte le sezioni integrate e validate."
+  },
+  "scene": [
+    {
+      "titolo": "Scena 1 – Il silenzio di Kaleph",
+      "testo": "TESTO_SCENA_1"
+    },
+    {
+      "titolo": "Scena 2 – ...",
+      "testo": "TESTO_SCENA_2"
+    },
+    {
+      "titolo": "Scena 3 – ...",
+      "testo": "TESTO_SCENA_3"
+    },
+    {
+      "titolo": "Scena 4 – L’Arca del Nodo",
+      "testo": "TESTO_SCENA_4"
+    },
+    {
+      "titolo": "Scena 5 – ...",
+      "testo": "TESTO_SCENA_5"
+    },
+    {
+      "titolo": "Scena 6 – ...",
+      "testo": "TESTO_SCENA_6"
+    },
+    {
+      "titolo": "Scena 7 – ...",
+      "testo": "TESTO_SCENA_7"
+    },
+    {
+      "titolo": "Scena 8 – ...",
+      "testo": "TESTO_SCENA_8"
+    },
+    {
+      "titolo": "Scena 9 – ...",
+      "testo": "TESTO_SCENA_9"
+    },
+    {
+      "titolo": "Scena 10 – ...",
+      "testo": "TESTO_SCENA_10"
+    },
+    {
+      "titolo": "Scena 11 – ...",
+      "testo": "TESTO_SCENA_11"
+    },
+    {
+      "titolo": "Scena 12 – ...",
+      "testo": "TESTO_SCENA_12"
+    },
+    {
+      "titolo": "Scena 13 – ...",
+      "testo": "TESTO_SCENA_13"
+    }
+  ],
+  "roadmap": {
+    "Fase 0": "Settimana Zero – Propedeutica",
+    "Fase I": "Struttura narrativa e linguistica",
+    "Fase II": "Personaggi e ambienti",
+    "Fase III": "Simbologia e mitologia",
+    "Fase IV": "Scene narrative",
+    "Fase V": "Codex e Lingue",
+    "Fase VI": "Produzione creativa",
+    "Fase VII": "Revisione e pubblicazione",
+    "Fase VIII": "Marketing e ARG"
+  },
+  "outlineNarrativoTrilogia": {
+    "Libro I": "Attivazione dell’Arca del Nodo e inizio della crisi semantica",
+    "Libro II": "Diffusione della Frattura e discesa nei territori esterni",
+    "Libro III": "Riconquista del linguaggio e svelamento della verità"
+  },
+  "geografia": {
+    "Kaleph": "Settore E4, Archivio Fonometrico Mobile",
+    "Altre città": [
+      "Nimrâl",
+      "Dorak",
+      "Seyra"
+    ]
+  },
+  "bestiario": {
+    "Ecofer": "Creatura fonica, rilevabile solo attraverso onde di ritorno",
+    "Spettri Muti": "Entità nate dal collasso linguistico"
+  },
+  "personaggi": {
+    "Larén": {
+      "ruolo": "Protagonista",
+      "origine": "Orfanotrofio",
+      "abilità": "Piegatura dell’aria"
+    },
+    "Archivista Cieca": {
+      "ruolo": "Custode",
+      "luogo": "Kaleph"
+    }
+  },
+  "lingue": {
+    "Lingua Innominata": {
+      "sezioni": 6,
+      "vocabolario": 99
+    },
+    "Lingua dei Risvegliati": {
+      "livelli": 5
+    }
+  },
+  "glifi": {
+    "A01": "Glifo del Respiro",
+    "F09": "Glifo della Frattura finale"
+  },
+  "simboli": {
+    "Occhio Silente": "Variazione in 9 città",
+    "Sigillo della Prima Città": "Simbolo iniziale"
+  },
+  "archiviazione": {
+    "SCEM": "Struttura Cartelle Editoriali Master",
+    "Scene": "scene/",
+    "Lingue": "lingue/"
+  },
+  "validazione": {
+    "ultima_verifica": "2025-06-06T05:46:40.714900",
+    "integrità_struttura": true,
+    "coerenza_nomi": true
+  },
+  "registroModifiche": [
+    {
+      "data": "2025-06-06T05:46:40.714902",
+      "azione": "Generato file v22 completo per download"
+    }
+  ]
+}
