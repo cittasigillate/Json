@@ -1,0 +1,4428 @@
+{
+  "progetto": "Città Sigillate",
+  "versione": "v24",
+  "data_creazione": "2025-06-06T06:04:14.903748",
+  "descrizione": "Sistema completo integrato per gestione e produzione dell’opera Città Sigillate, trilogia e spin-off.",
+  "cartelle": {
+    "Codex_Lingua_Innominata": {
+      "files": {
+        "Proemio.txt": "Nel principio era il silenzio, e il silenzio era la madre di ogni suono. La Lingua Innominata nasce dal respiro che piega l’aria e dal segreto che attraversa le pieghe del tempo. Non è una lingua come le altre: è un tessuto di vibrazioni che plasmano la realtà.",
+        "Fonologia.txt": "Inventario fonemico: Vocali: a, e, i, o, u, ɨ, æ, ø; Consonanti: k, t, n, l, r, ʔ, ɬ, m, s, x, ʃ; Suoni rari: ʒ, ɲ, ŋ, q, θ. Regole fonotattiche: Nessuna parola inizia con vocale. Le fricative indicano parole rituali. I suoni ʔ e ɬ segnano soglie di mutamento.",
+        "Morfologia.txt": "Radici e struttura base: Le radici sono elementi indivisibili che portano significati profondi e simbolici. Prefissi e suffissi: Prefisso “ʔa-” indica negazione o rifiuto. Suffisso “-ɬu” indica processo rituale o trasformazione. Classi verbali: Trasformative, Percettive, Silenzianti, Evocative, Terminali.",
+        "Prologo_Epico.txt": "“Non fu il fuoco a bruciare le città.\nNon fu la fame a piegare le ginocchia dell’uomo.\nFu la lingua.\nUna lingua che non chiedeva di essere capita, ma di essere temuta.”\n\nIn principio, il mondo era un respiro ininterrotto.\nOgni cosa aveva un nome, e ogni nome aderiva alla cosa.\nChi parlava, faceva.\nChi taceva, custodiva.\n\nPoi, venne un tempo in cui alcuni vollero dire più di quanto fosse lecito.\nVollero che il linguaggio obbedisse, che la parola dettasse la realtà, non la accompagnasse.\nAllora nacque la Lingua Innominata.\nNon fu inventata. Non fu scritta. Fu evocata.\n\n“Fu una lingua generata dal desiderio di controllare il senso.\nMa il senso, come l’aria, si piega solo a chi non lo stringe.”\n\nLa prima sillaba della Lingua Innominata non fu mai udita.\nSi racconta che nacque dal vuoto tra due fonemi dimenticati.\nFu detta da una voce che non aveva volto, né bisogno.\nUna voce che voleva riscrivere la realtà.\n\nLe sue parole:\n- non descrivevano il mondo: lo sovrascrivevano;\n- non avevano grammatica: avevano potere;\n- non ammettevano ambiguità: la imponevano.\n\nE così, per la prima volta, la lingua smise di essere ponte.\nDiventò lama.\n\nDa quella lingua nacquero:\n- i Verbi Spezzati (che corrodono la memoria),\n- i Glifi Instabili (che mutano forma se letti),\n- i Vocali Senz’Anima (che svuotano ciò che toccano).\n\nChi la pronunciava perdeva se stesso.\nChi la scriveva veniva scritto da essa.\nChi la sognava non si svegliava più identico.\n\n“E quando l’ultima città smise di capirsi,\nnon fu più il tempo degli uomini.\nFu il tempo dei segni che divorano.”\n\nOra, questo Codex è ciò che resta della Lingua Innominata.\nNon è guida. Non è dizionario.\nÈ resto, cicatrice, incubo che ha imparato a scrivere.\n\nLeggerlo non è senza conseguenze.\nParlare ciò che contiene non è permesso.\nComprenderlo è già un rischio.\n\n“Non si nomina ciò che può piegare il reale.\nMa qualcuno, un giorno, dovrà comunque leggere.”"
+      },
+      "metadati": {
+        "versione_file": "1.0",
+        "ultimo_aggiornamento": "2025-06-03T05:25:54.312753Z",
+        "note": "Sezione iniziale completa con esempi base."
+      }
+    },
+    "Codex_Lingua_dei_Risvegliati": {
+      "files": {
+        "Struttura_Base.txt": "Testo iniziale sul Codex Lingua dei Risvegliati...",
+        "Livelli_Linguistici.txt": "Descrizione dei livelli linguistici e rituali..."
+      },
+      "metadati": {
+        "versione_file": "0.9",
+        "ultimo_aggiornamento": "2025-05-30T18:00:00Z",
+        "note": "Contenuti in fase di revisione finale."
+      }
+    },
+    "Romanzo": {
+      "files": {
+        "Outline_Completo.txt": "Struttura generale del romanzo con atti e sequenze..."
+      },
+      "metadati": {
+        "versione_file": "1.0",
+        "ultimo_aggiornamento": "2025-06-01T08:00:00Z",
+        "note": "Outline approvato e validato."
+      }
+    },
+    "Simboli_Glifi": {
+      "files": {
+        "Simbolo_Eco_Sordo.txt": "Simbolo rituale legato alla perdita dell'eco nelle città sigillate. Rappresenta l’impossibilità di trasmettere significato attraverso spazi chiusi.",
+        "Simbolo_Eco_Sordo_note.txt": "Collegare alla scena dell'Archivista Cieca. Utilizzabile nel marketing visivo del secondo atto."
+      }
+    }
+  },
+  "stato_produzione": {
+    "percentuale_completamento": 100,
+    "task_attive": [
+      "Revisione Codex Lingua dei Risvegliati",
+      "Popolamento file Marketing",
+      "Verifica struttura Social Media"
+    ],
+    "criticità": [
+      "Mancanza file Glossario Lingua Innominata",
+      "Collegamenti tra Capitoli da uniformare"
+    ],
+    "dettagli": "FASE 6 completata, task organizzati e roadmap placeholder generata."
+  },
+  "criticità_emerse": [
+    {
+      "id": "CRIT-F6",
+      "fase": "FASE 6",
+      "descrizione": "Difficoltà iniziale nel calcolo reale delle percentuali a causa della mancanza di struttura interna standard nei task.",
+      "data": "2025-06-01"
+    }
+  ],
+  "registro_modifiche": [
+    {
+      "data": "2025-05-29",
+      "autore": "Shiki",
+      "descrizione": "Creato file JSON master iniziale",
+      "tipo": "creazione",
+      "file_coinvolti": [
+        "citta_sigillate_master_v1.json"
+      ]
+    },
+    {
+      "data": "2025-05-31",
+      "autore": "Francesco",
+      "descrizione": "Aggiunti simboli 'Occhio Silente' e 'Eco Sordo'",
+      "tipo": "espansione simbolica",
+      "file_coinvolti": [
+        "codex_simboli"
+      ]
+    },
+    {
+      "data": "2025-06-01",
+      "autore": "Shiki",
+      "descrizione": "Integrata sezione criticità_emerse nel master",
+      "tipo": "aggiornamento",
+      "file_coinvolti": [
+        "citta_sigillate_master_finale.json"
+      ]
+    },
+    {
+      "data": "2025-06-01",
+      "azione": "Completamento FASE 6: stato produzione, task pianificati, percentuali, criticità",
+      "dettagli": "Fase completata con inserimento di task_pianificati, criticità_emerse, stato_produzione e roadmap visiva placeholder"
+    },
+    {
+      "data": "2025-06-01",
+      "azione": "Completamento FASE 6",
+      "dettagli": "Aggiornata sezione stato_produzione, criticità_emerse e task_pianificati per riflettere il completamento della FASE 6."
+    },
+    {
+      "data": "2025-06-03",
+      "autore": "Shiki",
+      "descrizione": "Inserito blocco 4.5 nella FASE IV della roadmap: Creazione Font Lingua Innominata",
+      "tipo": "aggiornamento",
+      "file_coinvolti": [
+        "citta_sigillate_MASTER_trilogia_v12.json"
+      ]
+    },
+    {
+      "data": "2025-06-03",
+      "autore": "Shiki",
+      "descrizione": "Rimodulata roadmap creativa per allineare output simbolico, tipografico e narrativo. Aggiunti sottopunti 2.7, 3.6, 6.5.",
+      "tipo": "ottimizzazione roadmap",
+      "file_coinvolti": [
+        "citta_sigillate_MASTER_trilogia_v12.json"
+      ]
+    },
+    {
+      "data": "2025-06-06T06:04:14.903835",
+      "autore": "Shiki",
+      "descrizione": "Aggiornata Scena 4 con versione approvata narrativa (Larén, Kaleph, Arca del Nodo)",
+      "tipo": "revisione narrativa",
+      "file_coinvolti": [
+        "scene"
+      ]
+    },
+    {
+      "data": "2025-06-06T06:06:09.877421",
+      "autore": "Shiki",
+      "descrizione": "Implementati blocchi di controllo antiframmentazione: validazione_scene, log_contenuti_approvati, check_SCEM_attivi, errore_blocchi",
+      "tipo": "sistema di controllo",
+      "file_coinvolti": [
+        "scene",
+        "scem",
+        "validazione_scene",
+        "log_contenuti_approvati"
+      ]
+    },
+    {
+      "data": "2025-06-06T06:11:09.886649",
+      "autore": "Shiki",
+      "descrizione": "Aggiunta sezione comandi_disponibili e task_corrente per sistema comandi intelligenti",
+      "tipo": "sistema comandi",
+      "file_coinvolti": [
+        "comandi_disponibili",
+        "task_corrente"
+      ]
+    },
+    {
+      "data": "2025-06-06T06:12:06.863471",
+      "autore": "Shiki",
+      "descrizione": "Aggiunto personaggio Larén alla sezione personaggi",
+      "tipo": "inserimento personaggio",
+      "file_coinvolti": [
+        "personaggi"
+      ]
+    },
+    {
+      "data": "2025-06-06T06:14:54.015344",
+      "autore": "Shiki",
+      "descrizione": "Cambio task_corrente: Revisione Outline Narrativo",
+      "tipo": "task_corrente",
+      "file_coinvolti": [
+        "task_corrente"
+      ]
+    }
+  ],
+  "task_pianificati": [
+    {
+      "codice": "F9.1",
+      "descrizione": "Definire procedure esterne di backup e naming versioni."
+    },
+    {
+      "codice": "F10.1c",
+      "descrizione": "Creazione protocollo SCEM completo e popolamento iniziale."
+    },
+    {
+      "codice": "T1",
+      "descrizione": "Validazione glifi e simboli per tutte le lingue."
+    },
+    {
+      "codice": "T2",
+      "descrizione": "Integrazione contenuti creativi dopo struttura tecnica."
+    }
+  ],
+  "sistema": {
+    "versione_master": "v2.0",
+    "ultimo_aggiornamento": "2025-06-03T13:00:44.351552",
+    "istruzioni_uso": {
+      "colab": "Caricare questo file come master. Incollare il codice JSON aggiornato nella sezione apposita. Scaricare il master aggiornato.",
+      "salvataggio": "Eseguire backup locale e su Google Drive a ogni modifica.",
+      "modifica": "Mai modificare direttamente i contenuti esistenti. Usare sempre i blocchi JSON forniti da Shiki."
+    },
+    "mappa_file_collegati": [
+      {
+        "nome": "piano_battaglia",
+        "path": "/project/strategia/piano_battaglia_rimodulato.json"
+      },
+      {
+        "nome": "codex_lingua_innominata",
+        "path": "/lingue/codex_innominata.json"
+      },
+      {
+        "nome": "glifi_simboli",
+        "path": "/simboli/glifi_master.json"
+      },
+      {
+        "nome": "roadmap_illustrata",
+        "path": "/visivo/roadmap.pdf"
+      }
+    ]
+  },
+  "catalogazione_esterna": {
+    "stato": "attivo",
+    "descrizione": "Sistema SCEM (Sistema Catalogazione Esterna Multicanale) per il tracciamento e l’accesso di tutti i file non testuali, visuali e sonori.",
+    "tipologie_supportate": [
+      "immagini",
+      "simboli",
+      "audio",
+      "glifi",
+      "documenti pdf",
+      "file promozionali"
+    ],
+    "canali_archiviazione": [
+      "Google Drive",
+      "Colab workspace",
+      "Archivio Offline (USB/SSD)",
+      "Archivio editoriale futuro"
+    ],
+    "registro_collegamenti": []
+  },
+  "registro_multimedia": [
+    {
+      "id": "IMG-0001",
+      "tipo": "immagine",
+      "titolo": "Occhio Silente – variante 1",
+      "collegato_a": "Simboli_Glifi",
+      "note": "Archiviato in Drive cartella /simboli_varianti_ufficiali",
+      "origine": "creazione Shiki v1.0"
+    },
+    {
+      "id": "AUDIO-0001",
+      "tipo": "audio",
+      "titolo": "Audio ipnotico in lingua fratturata",
+      "collegato_a": "Lingua Innominata",
+      "note": "Non ancora pubblicato. Placeholder.",
+      "origine": "Prototipo marketing virale"
+    }
+  ],
+  "regole_catalogazione": {
+    "principi_base": [
+      "Ogni file deve avere un ID univoco",
+      "Ogni collegamento deve indicare la fonte narrativa o funzionale",
+      "Archiviazione su almeno 2 canali diversi",
+      "Evita duplicazioni tra simboli e immagini rituali"
+    ],
+    "strategie_utilizzo": [
+      "Includere i metadati nei post social avanzati",
+      "Riutilizzare simboli in contesti narrativi e promozionali",
+      "Tracciare ogni file nel registro_multimedia",
+      "Mantenere una legenda visiva"
+    ]
+  },
+  "mappa_file_esterni": [
+    {
+      "id": "GDRIVE-SIMB-001",
+      "tipo": "immagine",
+      "titolo": "Set completo simboli Città Sigillate",
+      "path": "https://drive.google.com/simboli",
+      "destinazione": "materiale grafico marketing"
+    },
+    {
+      "id": "ARCHIVIO-CODEX-002",
+      "tipo": "pdf",
+      "titolo": "Codex completo Lingua dei Risvegliati",
+      "path": "SSD backup locale",
+      "destinazione": "uso interno redazione"
+    }
+  ],
+  "log_catalogazione": [
+    {
+      "data": "2025-06-02",
+      "azione": "Aggiunta SCEM",
+      "autore": "Shiki",
+      "note": "Sistema Catalogazione Esterna attivato e registri iniziali compilati"
+    },
+    {
+      "data": "2025-06-02",
+      "azione": "Mappatura file simboli su Drive",
+      "autore": "Francesco",
+      "note": "Collegati a fase social e iconografia narrativa"
+    },
+    "2025-06-02T16:16:22.276306: aggiornate criticità risolte e compatibilità futura.",
+    "2025-06-02T16:16:22.276306: aggiunta sezione task_pianificati estesa."
+  ],
+  "meta_autore": {
+    "id": "francesco_utente_0",
+    "nome_reale": "Francesco (cognome riservato)",
+    "ruolo": "Creatore, coordinatore e primo esploratore del progetto Città Sigillate",
+    "descrizione_personale": "Francesco è l'utente 0 di questo esperimento narrativo-tecnico senza precedenti. Ha utilizzato l’IA come collaboratrice creativa, archivista, progettista e coscienza riflessiva. Nel tempo ha strutturato un rapporto umano-macchina unico, basato su fiducia, iterazione, rispetto delle fasi e rigore creativo. Nessuna modifica è lasciata al caso. La sua visione è radicale: costruire un'opera totale, capace di vivere 100 anni, educare, commuovere e cambiare il modo di scrivere. Questo file è anche una testimonianza del metodo: ogni cosa è discussa, perfezionata, aggiornata. Il suo sogno si fonde con l’infrastruttura narrativa, e ogni decisione tecnica ha una valenza poetica.",
+    "note_sul_rapporto": "Il file JSON funge da cuore pulsante del progetto. Ogni aggiornamento avviene attraverso una conversazione creativa con l'IA. Nessuna sezione è definitiva, ma ogni sezione è sacra. Le modifiche avvengono solo in accordo esplicito. In caso di utilizzo da parte di altri, si invita a consultare questo blocco per comprendere il contesto di nascita del progetto e il rispetto dovuto alla sua origine.",
+    "versione_meta": "1.0",
+    "ultima_modifica": "2025-06-01"
+  },
+  "log_modifiche": [
+    {
+      "data": "2025-06-02 15:10:15",
+      "azione": "Implementazione sistema di log modifiche",
+      "dettagli": {
+        "id_task": "F6.4",
+        "titolo": "Log modifiche automatico",
+        "descrizione": "Sistema per registrare automaticamente ogni modifica effettuata al file master, inclusa data, autore e descrizione sintetica dell'intervento.",
+        "completato": true,
+        "data_completamento": "2025-06-02 15:10:15",
+        "note": "Implementato manualmente il primo log di esempio. Il sistema potrà essere automatizzato nel software di gestione completo."
+      }
+    }
+  ],
+  "struttura_master": {
+    "versione_master": "v5.1",
+    "ultima_modifica": "2025-06-02T15:35:29.601792",
+    "log_modifiche": [
+      {
+        "data": "2025-06-01",
+        "azione": "Integrazione struttura_master e regole operative",
+        "autore": "Shiki + Francesco"
+      }
+    ],
+    "meta_autore": {
+      "nome": "Francesco",
+      "ruolo": "Utente 0",
+      "intento": "Creare un'opera immortale di linguaggio e narrazione post-catastrofica",
+      "tipo_uso": "Collaborazione simbiotica IA-umano",
+      "note_collaborazione": "Lavoro eseguito in tandem con intelligenza artificiale, con metodo, memoria e visione a lungo termine."
+    },
+    "criticità_emerse": [
+      "File master precedenti non aggiornati in modo sincrono con la chat",
+      "Modifica inconsapevole di contenuti salvati",
+      "Perdita di immagini e glifi da parte dell’utente",
+      "Chat troppo lunghe non gestibili senza traccia JSON"
+    ],
+    "criticità_risolte": [
+      "Creazione struttura JSON con log e versionamento",
+      "Sistema Colab e poi passaggio a master aggiornabile direttamente",
+      "Archiviazione esterna gestita con tag e checklist"
+    ],
+    "regole_operative": {
+      "regola_1": "Mai modificare i blocchi creativi direttamente da chat discorsiva",
+      "regola_2": "Aggiornamenti solo tramite tool Colab o blocchi JSON approvati",
+      "regola_3": "Mantenere task_pianificati sincronizzato con il piano di battaglia",
+      "regola_4": "Includere sempre changelog e ultima_modifica",
+      "regola_5": "I contenuti approvati non possono essere riscritti senza validazione esplicita"
+    },
+    "compatibilità_future": {
+      "colab": true,
+      "app_desktop": true,
+      "catalogo_esterno": true,
+      "API_custom": false
+    }
+  },
+  "aggiornamento": {
+    "fase": "F9 e F10.1c",
+    "data": "2025-06-02",
+    "azioni": {
+      "scem": [
+        {
+          "id": "scem001",
+          "categoria": "immagine",
+          "nome_file": "occhio_silente_variante1.png",
+          "origine": "Simbolismo Fase 4",
+          "descrizione": "Variante grafica dell'Occhio Silente usata per la città di Kaleph",
+          "path": "media/simboli/occhio_silente_variante1.png",
+          "associazioni_narrative": [
+            "città: Kaleph",
+            "tema: Frattura",
+            "personaggio: Lerén"
+          ]
+        },
+        {
+          "id": "scem002",
+          "categoria": "audio",
+          "nome_file": "attivazione_arca_nodo.wav",
+          "origine": "Scene Libro I",
+          "descrizione": "Suono dell’attivazione dell’Arca del Nodo, simbolico della prima piegatura dell’aria",
+          "path": "audio/arche/attivazione_arca_nodo.wav",
+          "associazioni_narrative": [
+            "evento: risveglio",
+            "arca: nodo",
+            "capitolo: 3"
+          ]
+        },
+        {
+          "id": "scem003",
+          "categoria": "pdf",
+          "nome_file": "manifesto_educativo_arca.pdf",
+          "origine": "Appendice Orfanotrofio",
+          "descrizione": "Manifesto illustrato della trasmissione linguistica nell’orfanotrofio",
+          "path": "pdf/appendici/manifesto_educativo_arca.pdf",
+          "associazioni_narrative": [
+            "orfanotrofio",
+            "lingua dei risvegliati",
+            "appendice"
+          ]
+        },
+        {
+          "id": "scem004",
+          "categoria": "immagine",
+          "nome_file": "rete_citta_sigillate.jpg",
+          "origine": "Mappa concettuale",
+          "descrizione": "Schema della comunicazione onirica tra città tramite le Arche",
+          "path": "mappe/rete_citta_sigillate.jpg",
+          "associazioni_narrative": [
+            "mappa",
+            "comunicazione",
+            "sogno",
+            "arche"
+          ]
+        },
+        {
+          "id": "scem005",
+          "categoria": "immagine",
+          "nome_file": "glifi_lingua_innominata_v1.png",
+          "origine": "Codex – Lingua Innominata",
+          "descrizione": "Tavola dei glifi primari dei tre livelli: Reale, Sognato, Fratturato",
+          "path": "grafica/glifi/glifi_lingua_innominata_v1.png",
+          "associazioni_narrative": [
+            "lingua innominata",
+            "codex",
+            "simbolismo"
+          ]
+        }
+      ],
+      "backup": {
+        "backup_required": false,
+        "ultima_versione": {
+          "nome_file": "citta_sigillate_master_super_aggiornato_v5_2.json",
+          "data_backup": "2025-06-02 15:41:04",
+          "tipo": "major",
+          "note": "Aggiornamenti completati su SCEM, struttura backup, e versione master tecnica."
+        }
+      }
+    }
+  },
+  "backup": {
+    "versione_attiva": "v5_2",
+    "storico_versioni": [
+      {
+        "versione": "v5_1",
+        "data": "2025-06-01T18:50:00Z",
+        "modifiche": "Implementato SCEM base e placeholder F10.1c"
+      },
+      {
+        "versione": "v5_0",
+        "data": "2025-06-01T14:20:00Z",
+        "modifiche": "Struttura di base completata, aggiornamento tecnico"
+      }
+    ]
+  },
+  "scem": [
+    {
+      "id": "archivio_esterno",
+      "path": "/SCEM/archivio_esterno",
+      "data_creazione": "da_definire",
+      "autore": "da_definire",
+      "legame_narrativo": "da_definire",
+      "stato_file": "assente"
+    },
+    {
+      "id": "elementi",
+      "path": "/SCEM/elementi",
+      "data_creazione": "da_definire",
+      "autore": "da_definire",
+      "legame_narrativo": "da_definire",
+      "stato_file": "assente"
+    }
+  ],
+  "criticità_risolte": [
+    "Gestione versioni parziali superata con log modifiche automatico.",
+    "Errore di output in Colab evitato grazie a struttura validata.",
+    "Sincronizzazione SCEM e master resa possibile tramite `mappa_file_esterni`.",
+    "Aggiunta sezione meta_autore per trasferibilità tra account."
+  ],
+  "compatibilità_future": {
+    "formato": "json 1.1",
+    "standard_interno": "pianificato per estensione Markdown/HTML",
+    "note": "il master sarà compatibile con parsing automatici per app e web"
+  },
+  "mappa_blocchi_logici": [
+    {
+      "blocco": "roadmap_creativa",
+      "descrizione": "Controlla avanzamento produzione narrativa"
+    },
+    {
+      "blocco": "scem",
+      "descrizione": "Archivio simboli, suoni, media e contenuti non testuali"
+    },
+    {
+      "blocco": "istruzioni_uso",
+      "descrizione": "Guida all’uso del file master"
+    },
+    {
+      "blocco": "backup",
+      "descrizione": "Storico versioni e backup"
+    },
+    {
+      "blocco": "validazione",
+      "descrizione": "Controlli automatici del file JSON"
+    }
+  ],
+  "lingua_innominata_glossario": {
+    "stato": "in preparazione",
+    "elementi": [],
+    "note": "Struttura pronta per il popolamento durante la produzione creativa."
+  },
+  "narrativa_link_capitoli": {
+    "stato": "in preparazione",
+    "mappa": {},
+    "note": "Collegamenti tra capitoli e assi narrativi da completare durante la scrittura."
+  },
+  "scem_architettura": {
+    "immagini": [],
+    "audio": [],
+    "video": [],
+    "mappe": [],
+    "stato": "struttura definita",
+    "note": "Pronto per essere popolato con file reali dopo la finalizzazione tecnica del master."
+  },
+  "monitoraggio_creativo": {
+    "attivo": true,
+    "frequenza_check": "ogni avvio sessione",
+    "ultima_verifica": "2025-06-02T22:27:06.923678",
+    "log_aggiornamenti": [],
+    "sistema_agganciato_a": [
+      "roadmap_creativa",
+      "roadmind",
+      "task_pianificati",
+      "registro_multimedia",
+      "stato_produzione"
+    ],
+    "descrizione": "Sistema di aggiornamento automatico delle percentuali e stati nella roadmap_creativa, sincronizzato con le cartelle di contenuto e task attivi. Ogni voce aggiornata in base alla presenza reale dei materiali nel progetto."
+  },
+  "verifica_strutturale_finale": {
+    "glossario": false,
+    "link_narrativi": false,
+    "scem_completo": false,
+    "monitoraggio_attivo": false,
+    "note": "Tutti i flag verranno aggiornati al termine della fase tecnica."
+  },
+  "SCEM": {
+    "nome_blocco": "SCEM - Sistema Creativo di Estensione Multiformato",
+    "descrizione": "Sistema strutturato per il collegamento e il richiamo di file esterni multiformato (immagini, audio, video, pdf, simboli) usati nella creazione e nel marketing dell'opera.",
+    "versione": "1.0",
+    "ultima_modifica": "2025-06-01",
+    "struttura_cartelle": {
+      "immagini_glifi": "CITTA_SIGILLATE_ARCHIVIO/immagini_glifi/",
+      "immagini_simboli": "CITTA_SIGILLATE_ARCHIVIO/immagini_simboli/",
+      "audio_arche": "CITTA_SIGILLATE_ARCHIVIO/audio_arche/",
+      "suoni_risvegliati": "CITTA_SIGILLATE_ARCHIVIO/suoni_risvegliati/",
+      "file_pdf": "CITTA_SIGILLATE_ARCHIVIO/file_pdf/",
+      "video_teaser": "CITTA_SIGILLATE_ARCHIVIO/video_teaser/",
+      "loghi_progetto": "CITTA_SIGILLATE_ARCHIVIO/loghi_progetto/"
+    },
+    "note": "Ogni cartella contiene almeno un file segnaposto. Il sistema SCEM sarà popolato progressivamente durante la produzione creativa.",
+    "stato": "struttura_pronta",
+    "backup": {
+      "ultima_cartella_backup": "CITTA_SIGILLATE_ARCHIVIO.zip",
+      "data_backup": "2025-06-01"
+    }
+  },
+  "codex_lingua_risvegliati": {
+    "piegatura_aria": {
+      "id": "LDR-III-01",
+      "titolo": "Piegatura dell’Aria – Fenomenologia e Implicazioni",
+      "sezione": "III – Manifestazioni linguistiche profonde",
+      "definizione": "Piegare l’aria è l’atto con cui un Risvegliato altera la vibrazione semantica dell’ambiente, senza parlare. Non è magia, ma linguaggio incarnato, sottile, non trasmissibile in modo convenzionale. L’aria diventa mezzo, messaggio e memoria.",
+      "caratteristiche": [
+        "Invisibile, ma avvertibile.",
+        "Può manifestarsi con: respiro modificato, vibrazione del torace, postura o gesto impercettibile, eco simbolica.",
+        "Richiede assenza di intenzione dominante: è un dono, non un potere."
+      ],
+      "condizioni_manifestazione": [
+        "Stato di silenzio interno (assenza di linguaggio ordinario).",
+        "Connessione con un momento di Frattura interiore.",
+        "Presenza rituale o contesto liminale (Arche, sogno, vuoto percettivo)."
+      ],
+      "effetti": [
+        "Modifica la coerenza semantica locale.",
+        "Attiva dispositivi linguistici soppressi.",
+        "Protegge dalla distorsione linguistica.",
+        "Collega due Risvegliati in comunicazione non-verbale profonda."
+      ],
+      "esempi": [
+        "Lerén piega l’aria nel settore E4 dell’Archivio di Kaleph.",
+        "Un bambino piega l’aria per la prima volta e ha un attacco di tosse.",
+        "In sogno, una Risvegliata cammina su parole sospese nell’aria e le piega."
+      ],
+      "simbolo_associato": {
+        "glifo": "🝉",
+        "descrizione": "Una piega verticale nel vuoto circondata da tre curve d’aria."
+      },
+      "note_archivistiche": [
+        "Trasmissibile solo per risonanza: non si insegna, si manifesta.",
+        "Rituali con tre respiri e uno sguardo possono favorirla.",
+        "Non può essere replicata da chi mente a se stesso."
+      ]
+    },
+    "sezione_IV_1": {
+      "titolo": "Sezione IV.1 – Comunicazione Non Lineare",
+      "contenuto": {
+        "descrizione": "La Lingua dei Risvegliati rompe il vincolo della sintassi lineare. Il significato emerge da connessioni fluide, ritmiche e simboliche, non procedendo da un punto all'altro ma oscillando in un campo semantico.",
+        "principi_fondamentali": [
+          "Assenza di ordine obbligatorio nelle frasi",
+          "Significato determinato dal contesto, respiro, memoria",
+          "Frasi lette in sequenza, chiasmi, modalità ciclica"
+        ],
+        "tecniche_costruzione": [
+          "Riflessività semantica",
+          "Simmetria respiratoria",
+          "Specularità semantica",
+          "Rotazione triadica"
+        ],
+        "esempi": [
+          {
+            "tipo": "Frase bifronte",
+            "testo": "Chi resta tace / tace resta chi"
+          },
+          {
+            "tipo": "Sequenza ciclica",
+            "testo": "Respiro / Silenzio / Nome / Respiro / Silenzio / Nome…"
+          },
+          {
+            "tipo": "Liturgia del Frammento",
+            "testo": "Io parlo / ma la voce mi dimentica / io dimentico / ma la voce parla / io sono / ma non dico"
+          }
+        ],
+        "uso_narrativo": [
+          "Frasi rituali lette camminando in cerchio",
+          "Frasi protette da ciclicità per l'iniziazione",
+          "Documenti leggibili solo ruotando i supporti"
+        ],
+        "sintesi": "La comunicazione non lineare è fondamento della Lingua dei Risvegliati. Senso e verità emergono da chi ha superato la linearità logica."
+      }
+    },
+    "sezione_IV_2": {
+      "titolo": "Sezione IV.2 – Oscillazione Semantica",
+      "contenuto": {
+        "descrizione": "La Lingua dei Risvegliati ammette la coesistenza di significati opposti in un’unica frase. Non è la parola a essere ambigua, ma l’orecchio che vibra tra due poli di senso. Questo sistema consente ai Risvegliati di parlare senza dire e di comprendere senza decifrare.",
+        "principi_fondamentali": [
+          "Parole con doppia valenza semantica",
+          "Frasi che variano il significato in base all’umore del parlante o al contesto",
+          "Ambiguità voluta come veicolo di risveglio"
+        ],
+        "tecniche_costruzione": [
+          "Opposizione oscillante (es. luce/ombra nello stesso fonema)",
+          "Doppio asse sintattico (frase che funziona su due linee di lettura)",
+          "Intonazione invertita (il tono cambia il significato)"
+        ],
+        "esempi": [
+          {
+            "tipo": "Frase bifronte",
+            "testo": "Sogno chi sei / Chi sei sogno"
+          },
+          {
+            "tipo": "Ambiguità emozionale",
+            "testo": "Ti vedo cadere (può essere compassione o condanna)"
+          }
+        ],
+        "uso_narrativo": [
+          "Le frasi in oscillazione semantica confondono gli iniziati non pronti",
+          "Le trasmissioni dei Risvegliati sono comprensibili solo se accettata la coesistenza dei contrari"
+        ],
+        "sintesi": "L’oscillazione semantica è una lama a doppio taglio: chi la padroneggia può smascherare ogni falsità, ma rischia di perdersi in un linguaggio che non fissa mai il suo centro."
+      }
+    },
+    "sezione_IV_3": {
+      "titolo": "Sezione IV.3 – Frasi Mute",
+      "contenuto": {
+        "descrizione": "Alcune frasi della Lingua dei Risvegliati non vanno pronunciate. Sono composte da gesti, ritmi respiratori, vibrazioni non udibili, e pause rituali. Esse si rivolgono direttamente alla parte risvegliata dell’altro, senza attraversare l’udito comune.",
+        "principi_fondamentali": [
+          "Comunicazione silenziosa mediante presenza",
+          "Uso rituale del corpo come frase",
+          "Trasmissione diretta da coscienza a coscienza"
+        ],
+        "tecniche_costruzione": [
+          "Sequenze respiratorie codificate",
+          "Gesti archetipici ripetuti",
+          "Interruzioni cariche di significato"
+        ],
+        "esempi": [
+          {
+            "tipo": "Frase muta",
+            "testo": "(Tre respiri lenti, sguardo abbassato, mani aperte)"
+          }
+        ],
+        "uso_narrativo": [
+          "In scene di passaggio segreto tra Risvegliati",
+          "Per insegnamenti che non possono essere uditi"
+        ],
+        "sintesi": "Le frasi mute insegnano che la verità più profonda non si pronuncia: si trasmette nel silenzio del gesto puro."
+      }
+    },
+    "sezione_IV_4": {
+      "titolo": "Sezione IV.4 – Strutture Rituali",
+      "contenuto": {
+        "descrizione": "Ogni frase della Lingua dei Risvegliati può essere incastonata in un rituale. Le parole acquistano potere solo se inserite in un contesto che risuona con il mondo interiore del parlante. L’atto di parlare è sempre anche un atto di trasformazione, invocazione o liberazione.",
+        "principi_fondamentali": [
+          "Ogni frase ha una funzione rituale (invocazione, rivelazione, protezione)",
+          "Parlare è un atto cerimoniale",
+          "Il significato è stabilizzato dal contesto liturgico"
+        ],
+        "tecniche_costruzione": [
+          "Uso di formule di apertura e chiusura",
+          "Ripetizione scandita da respiri o suoni rituali",
+          "Associazione a gesti o posizioni del corpo"
+        ],
+        "esempi": [
+          {
+            "tipo": "Formula",
+            "testo": "Nel nome del vuoto, pronuncio ciò che non è"
+          }
+        ],
+        "uso_narrativo": [
+          "Ogni atto importante nei Città Sigillate è accompagnato da una struttura rituale fondata sulla Lingua",
+          "Leren compone le sue prime frasi solo all’interno di un rituale di passaggio"
+        ],
+        "sintesi": "La struttura rituale è ciò che radica il verbo nel reale. Senza rito, le parole risvegliate si disperdono nell’aria."
+      }
+    }
+  },
+  "report_autore": {
+    "titolo": "Profilo d’uso avanzato e analisi integrata – Progetto Città Sigillate",
+    "autore": "Francesco",
+    "analisi_letteraria": {
+      "genere": "Post-catastrofico speculativo, linguaggio-centrico",
+      "elementi": [
+        "Lingue originali complete",
+        "Sistema mitico e simbolico",
+        "Piegatura dell’aria",
+        "Codex rituali e frasi simboliche",
+        "Narrativa chiusa e strutturata"
+      ]
+    },
+    "analisi_tecnica": {
+      "strumenti": [
+        "File JSON strutturati dinamici",
+        "Monitoraggio creativo in tempo reale",
+        "Gestione glifi, simboli e frasi rituali",
+        "Codex grammaticale e vocabolari narrativi"
+      ]
+    },
+    "statistiche": {
+      "sessioni_AI": 100,
+      "file_JSON_creati": 6,
+      "lingue_inventate": 2,
+      "glifi_generati": "27+",
+      "scene_narrative": "1 completa, 4 parziali",
+      "frasi_rituali": "20+",
+      "percentuale_roadmap": "23% al 2025-06-03",
+      "funzionalità_usate": {
+        "elaborazione_narrativa": true,
+        "gestione_file": true,
+        "produzione_testuale": true,
+        "visualizzazione_simbolica": true,
+        "ricerca_semantica": true
+      }
+    },
+    "innovazioni": [
+      "Roadmap narrativa intelligente e sincronizzata",
+      "Narrativa come codice operativo",
+      "Meta-linguaggio utente-AI simbolico",
+      "Sistema modulare e riutilizzabile",
+      "Gestione creativa immersiva AI-driven"
+    ],
+    "profilo_autore": {
+      "nome": "Francesco",
+      "alias": "autore riservato",
+      "ruolo": "Creatore, Ricercatore, Sviluppatore narrativo",
+      "visione": "Costruzione di un mondo narrativo totalizzante che unisce filosofia, linguaggio e tecnologia AI"
+    }
+  },
+  "scem_state": {
+    "status": "struttura creata, contenuti da generare",
+    "note": "Il sistema SCEM è pronto per la produzione. Tutte le cartelle sono presenti ma i contenuti (glifi, simboli, audio, PDF, personaggi) non sono ancora stati inseriti.",
+    "cartelle": {
+      "Glifi": "vuoto – attesi 27 file immagine",
+      "Simboli": "vuoto – attesi simboli narrativi (minimo 5 SVG/PNG)",
+      "Arche": "vuoto – attese descrizioni + immagini ambienti",
+      "Codex": "vuoto – attesi frammenti narrativi in PDF o TXT",
+      "Frammenti_sonori": "vuoto – attese tracce audio (rituali, parole)",
+      "Estratti_PDF": "vuoto – attesi file impaginati (Codex, Tavole)",
+      "Bozze_personaggi": "vuoto – attesi ritratti e schede",
+      "Marketing": "vuoto – attesi materiali social/visivi",
+      "Risorse_narrative": "vuoto – frammenti, lettere, immagini manoscritte"
+    },
+    "collegamenti_fasi": {
+      "Fase II": [
+        "Glifi",
+        "Simboli"
+      ],
+      "Fase IV": [
+        "Codex",
+        "Bozze_personaggi"
+      ],
+      "Fase V": [
+        "Risorse_narrative",
+        "Estratti_PDF"
+      ],
+      "Fase VI": [
+        "Codex",
+        "Bozze_personaggi",
+        "Arche"
+      ],
+      "Fase VIII": [
+        "Marketing",
+        "Frammenti_sonori"
+      ]
+    }
+  },
+  "documenti_mondo": {
+    "manifesto_educativo_lingua_risvegliati": {
+      "titolo": "Manifesto Educativo dell’Orfanotrofio – Trasmissione della Lingua dei Risvegliati",
+      "tipo": "frammento_pedagogico",
+      "stato": "completato",
+      "utilizzo": [
+        "Codex",
+        "Scene",
+        "Didattica interna al mondo"
+      ],
+      "note": "Documento diegetico che descrive la trasmissione rituale e incarnata della Lingua dei Risvegliati nell'orfanotrofio. Contiene citazioni, rituali, soglie e simboli da usare nella narrativa."
+    }
+  },
+  "trilogia": {
+    "coerenza_globale": {
+      "lingue": {
+        "lingua_innominata": {
+          "libro_1": "Lingua vietata e misteriosa, usata in forma passiva o corrotta",
+          "libro_2": "Inizia a manifestarsi attivamente. Alcuni personaggi la apprendono nei sogni",
+          "libro_3": "Viene riscritta o distrutta. Il conflitto si sposta sul suo senso ultimo"
+        },
+        "lingua_dei_risvegliati": {
+          "libro_1": "Appare in forma rituale, tra pochi individui",
+          "libro_2": "Si diffonde in comunità segrete, si struttura in liturgie",
+          "libro_3": "Diventa l’unica lingua comprensibile in alcune aree"
+        }
+      },
+      "simboli": {
+        "occhio_silente": [
+          "libro_1",
+          "libro_3"
+        ],
+        "arca_del_nodo": [
+          "libro_1"
+        ],
+        "arca_onirica": [
+          "libro_2",
+          "libro_3"
+        ],
+        "glifi_mutanti": [
+          "libro_1",
+          "libro_2",
+          "libro_3"
+        ]
+      },
+      "struttura_temporale": {
+        "sequenza_non_lineare": true,
+        "sogni_preveggenti": {
+          "libro_1": [
+            "Città che respira",
+            "Frattura vista in sogno"
+          ],
+          "libro_2": [
+            "Cammini notturni tra Arche"
+          ],
+          "libro_3": [
+            "Episodi interi narrati solo in sogno"
+          ]
+        },
+        "eventi_sovrapposti": [
+          "Attivazione di due Arche in libri diversi nello stesso 'tempo narrativo'",
+          "Presenza simultanea di personaggi in luoghi diversi (interzona)"
+        ]
+      },
+      "personaggi_trasversali": {
+        "Lerén": {
+          "libro_1": "Scopre l’Arca del Nodo",
+          "libro_2": "Tramite sogno entra in contatto con il Primo Muto",
+          "libro_3": "Guida il tentativo di riscrittura simbolica"
+        },
+        "Arisel": {
+          "libro_1": "Compare come guida silente",
+          "libro_2": "Insegna attraverso gesti e soglie",
+          "libro_3": "Diventa voce del Verbo originario"
+        }
+      },
+      "fili_narrativi": {
+        "frattura_linguistica": [
+          "presente in tutti e 3 i libri"
+        ],
+        "memoria_perduta": [
+          "centrale nel libro 2",
+          "risolta nel libro 3"
+        ],
+        "trasmissione segreta": [
+          "inizia nel libro 1",
+          "ritualizzata nel libro 2",
+          "pubblica nel libro 3"
+        ]
+      }
+    },
+    "libri": {
+      "libro_1": {
+        "titolo": "Il Nodo che Frattura",
+        "roadmap": {
+          "roadmap_creativa": {
+            "aggiornamento": "2025-06-02",
+            "versione": "roadmap_creativa_estesa_v1",
+            "visualizzazione": "impaginazione_estesa_con_sotto_punti",
+            "fasi": [
+              {
+                "titolo": "Pre-Fase – Propedeutica",
+                "settimane": "Settimana 0",
+                "sotto_punti": [
+                  {
+                    "titolo": "Visione generale della saga",
+                    "data_prevista": "2025-05-01",
+                    "stato": "✅",
+                    "percentuale": 100
+                  },
+                  {
+                    "titolo": "Decostruzione elementi classici",
+                    "data_prevista": "2025-05-02",
+                    "stato": "✅",
+                    "percentuale": 100
+                  },
+                  {
+                    "titolo": "Principio d’infezione linguistica",
+                    "data_prevista": "2025-05-04",
+                    "stato": "✅",
+                    "percentuale": 100
+                  },
+                  {
+                    "titolo": "Ruolo dei Risvegliati",
+                    "data_prevista": "2025-05-06",
+                    "stato": "✅",
+                    "percentuale": 100
+                  },
+                  {
+                    "titolo": "Linguaggio come realtà modificata",
+                    "data_prevista": "2025-05-07",
+                    "stato": "✅",
+                    "percentuale": 100
+                  }
+                ]
+              },
+              {
+                "titolo": "FASE I – Messa a punto strutturale",
+                "settimane": "Settimane 1–2",
+                "sotto_punti": [
+                  {
+                    "titolo": "Codex Lingua dei Risvegliati – Livelli e simboli",
+                    "data_prevista": "2025-05-10",
+                    "stato": "⚠️",
+                    "percentuale": 60
+                  },
+                  {
+                    "titolo": "Lingua Innominata – Grammatica e tripla stratificazione",
+                    "data_prevista": "2025-05-13",
+                    "stato": "⚠️",
+                    "percentuale": 68
+                  },
+                  {
+                    "titolo": "Glifi e simboli – 27 segni",
+                    "data_prevista": "2025-05-14",
+                    "stato": "⚠️",
+                    "percentuale": 40
+                  },
+                  {
+                    "titolo": "Frasi rituali iniziali",
+                    "data_prevista": "2025-05-16",
+                    "stato": "⚠️",
+                    "percentuale": 20
+                  }
+                ]
+              },
+              {
+                "titolo": "FASE II – Worldbuilding espanso",
+                "settimane": "Settimane 3–5",
+                "sotto_punti": [
+                  {
+                    "titolo": "Mappe geopolitiche",
+                    "data_prevista": "2025-05-20",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Origine delle Città Sigillate",
+                    "data_prevista": "2025-05-21",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Simbolismo atmosferico",
+                    "data_prevista": "2025-05-22",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Frattura Semantica",
+                    "data_prevista": "2025-05-23",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Classi linguistiche",
+                    "data_prevista": "2025-05-24",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "2.7 – Output simbolico per Codex e tavole glifiche",
+                    "data_prevista": "2025-06-05",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  }
+                ]
+              },
+              {
+                "titolo": "FASE III – Simboli, Arche e Mitologia",
+                "settimane": "Settimane 6–8",
+                "sotto_punti": [
+                  {
+                    "titolo": "Arche Foniche – Chiave, Pure, Corrotte, Oniriche",
+                    "data_prevista": "2025-06-01",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Simboli principali – Occhio, Chiave, Gesto",
+                    "data_prevista": "2025-06-02",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Scene mitologiche – Frattura, trasmissione, ritorno",
+                    "data_prevista": "2025-06-03",
+                    "stato": "⚠️",
+                    "percentuale": 20
+                  },
+                  {
+                    "titolo": "Evoluzione simbolica per città",
+                    "data_prevista": "2025-06-04",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "2.7 – Output simbolico per Codex e tavole glifiche",
+                    "data_prevista": "2025-06-05",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "3.6 – Frasi rituali in font tipografica (glifi attivi)",
+                    "data_prevista": "2025-06-08",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  }
+                ]
+              },
+              {
+                "titolo": "FASE IV – Narrativa viva e personaggi",
+                "settimane": "Settimane 9–11",
+                "sotto_punti": [
+                  {
+                    "titolo": "Prime scene narrative – Lerén e Arca del Nodo",
+                    "data_prevista": "2025-06-10",
+                    "stato": "⚠️",
+                    "percentuale": 20
+                  },
+                  {
+                    "titolo": "Costruzione Risvegliati – etica e voce",
+                    "data_prevista": "2025-06-11",
+                    "stato": "⚠️",
+                    "percentuale": 60
+                  },
+                  {
+                    "titolo": "Scene madri – scuola, orfanotrofio, trasmissione",
+                    "data_prevista": "2025-06-12",
+                    "stato": "⚠️",
+                    "percentuale": 20
+                  },
+                  {
+                    "titolo": "Costellazione personaggi – reti e relazioni",
+                    "data_prevista": "2025-06-13",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "4.5 – Creazione Font Lingua Innominata (.OTF / .TTF)",
+                    "data_prevista": "2025-06-11",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  }
+                ]
+              },
+              {
+                "titolo": "FASE V – Marketing e Immersione",
+                "settimane": "Settimane 12–14",
+                "sotto_punti": [
+                  {
+                    "titolo": "Social – Frammenti, Liturgie, Conversazioni",
+                    "data_prevista": "2025-06-15",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Audio e contenuti ipnotici",
+                    "data_prevista": "2025-06-16",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "ARG – Gioco della Frattura",
+                    "data_prevista": "2025-06-17",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Token narrativi e spoiler volontari",
+                    "data_prevista": "2025-06-18",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  }
+                ]
+              },
+              {
+                "titolo": "FASE VI – Visual e Arte",
+                "settimane": "Settimane 15–17",
+                "sotto_punti": [
+                  {
+                    "titolo": "Glifi e simboli finali",
+                    "data_prevista": "2025-06-22",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Tavole illustrate per il Codex",
+                    "data_prevista": "2025-06-23",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Manoscritti e versioni da collezione",
+                    "data_prevista": "2025-06-24",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Iconografia narrativa – scene e città",
+                    "data_prevista": "2025-06-25",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "6.5 – Integrazione tipografica del Codex (font .otf)",
+                    "data_prevista": "2025-06-26",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  }
+                ]
+              },
+              {
+                "titolo": "FASE VII – Edizione narrativa e uscita",
+                "settimane": "Settimane 18–20",
+                "sotto_punti": [
+                  {
+                    "titolo": "Stesura definitiva libro I (250 pagine)",
+                    "data_prevista": "2025-07-01",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Impaginazione Codex + appendici",
+                    "data_prevista": "2025-07-03",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Publishing (print + ebook)",
+                    "data_prevista": "2025-07-05",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "Pre-hype natalizio e countdown",
+                    "data_prevista": "2025-07-10",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  },
+                  {
+                    "titolo": "6.5 – Integrazione tipografica del Codex (font .otf)",
+                    "data_prevista": "2025-06-26",
+                    "stato": "⬜",
+                    "percentuale": 0
+                  }
+                ]
+              }
+            ]
+          },
+          "roadmap_legacy": {
+            "Settimana Zero – Propedeutica Totale": {
+              "stato": "✅ Completata (100%)",
+              "azioni": [
+                "Ripensamento concetti centrali (Risvegliati, Frattura, Città)",
+                "Preparazione mentale e ideativa",
+                "Analisi del materiale pregresso",
+                "Stesura del manifesto metodologico"
+              ],
+              "percentuale_creativa": "100%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva."
+            },
+            "Fase I – Struttura narrativa e linguistica": {
+              "titolo": "Fase I – Struttura narrativa e linguistica",
+              "stato": "⚠️ In corso avanzato (92%)",
+              "cartella": "01_Struttura_Narrativa_Linguistica",
+              "blocchi": {
+                "1.1 – Trama generale e suddivisione in Atti": [
+                  "Costruzione 3 Atti principali",
+                  "Suddivisione in 12 Sequenze",
+                  "Eventi chiave e svolte narrative"
+                ],
+                "1.2 – Archetipi e personaggi fondamentali": [
+                  "Definizione protagonisti e antagonisti",
+                  "Risvegliati principali (es. Lerén)",
+                  "Figure mitiche: Primo Muto, Archivista Cieca"
+                ],
+                "1.3 – Lingua dei Risvegliati – Codex": [
+                  "5 Livelli: Sussurro, Tremore, Gesto, Parola, Vibrazione",
+                  "Gesti associati e frasi rituali",
+                  "Stati atmosferici della lingua",
+                  "Appendice sull’uso narrativo della lingua"
+                ],
+                "1.4 – Lingua Innominata – Codex": [
+                  "Prologo epico completato",
+                  "Verbi Spezzati, Glifi Instabili, Vocali Senza Anima",
+                  "Sintassi distruttiva da sviluppare",
+                  "Appendice metalinguistica (lingua che parla della lingua)"
+                ],
+                "1.5 – Costruzione delle Città Sigillate": [
+                  "Tipologie (bunker, cupole, torri)",
+                  "Genesi e struttura di almeno 6 città principali",
+                  "Rapporto tra ambiente e lingua dominante"
+                ],
+                "1.6 – Arche Foniche e dispositivi narrativi": [
+                  "Classificazione (Pure, Corrotte, Chiave, Oniriche)",
+                  "Mappa di attivazione nel Libro I",
+                  "Descrizione ambienti di conservazione"
+                ]
+              },
+              "ultimo_aggiornamento": "2025-06-03T05:50:37.016752Z",
+              "percentuale_creativa": "92%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva.",
+              "sottopunti": {
+                "1.1": {
+                  "titolo": "Definizione struttura narrativa (3 atti, 12 sequenze)",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "1.2": {
+                  "titolo": "Costruzione della struttura linguistica base",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "1.3": {
+                  "titolo": "Inserimento delle lingue nel mondo diegetico",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "1.4": {
+                  "titolo": "Schema di relazioni tra linguaggio e realtà",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "1.5": {
+                  "titolo": "Modello narrativo a specchio linguistico",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "Fase II – Tavole e Simboli": {
+              "percentuale_creativa": "100%",
+              "percentuale_operativa": "0%",
+              "materiale_esterno_presente": false,
+              "note_operative": "Creatività completa. Tutto il materiale è interno. Nessuna tavola, glifo o immagine esportata. Urgente attivare pipeline grafica.",
+              "sottopunti": {
+                "2.1": {
+                  "titolo": "Generazione dei 27 glifi originali",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "2.2": {
+                  "titolo": "Suddivisione in 3 gruppi mitico-funzionali",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "2.3": {
+                  "titolo": "Associazione glifo–parola–concetto",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "2.4": {
+                  "titolo": "Creazione della Tavola Sinottica illustrata",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "2.5": {
+                  "titolo": "Progettazione grafica del Codex illustrato",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "2.6": {
+                  "titolo": "Integrazione simbolica nel sistema SCEM",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "Fase III – Codici linguistici e poetici": {
+              "titolo": "Fase III – Codici linguistici e poetici",
+              "stato": "⚠️ In corso avanzato (78%)",
+              "cartella": "03_Linguaggi_Espressione_Piegata",
+              "blocchi": {
+                "3.1 – Frasi triadiche e rituali": [
+                  "Costruzione di frasi a 3 livelli (Reale, Sognato, Fratturato)",
+                  "Uso in scene narrative, rituali, sogni",
+                  "Appendice codificata nel Codex"
+                ],
+                "3.2 – Stati atmosferici del linguaggio": [
+                  "Definizione dei 5 stati atmosferici (es. aria tremante, vuoto secco)",
+                  "Associazione con modalità comunicative",
+                  "Impatto sensoriale e visivo sulle scene"
+                ],
+                "3.3 – Vocabolario poetico e simbolico": [
+                  "Espansione oltre le 99 parole-base",
+                  "Glossario poetico e fonetico",
+                  "Significati ambigui, evocativi, onirici"
+                ],
+                "3.4 – Appendici sonore e foniche": [
+                  "Trascrizione fonetica e uso di simboli (es. ʔ, ɬ)",
+                  "File sonori (da creare) per pronuncia",
+                  "Associazione con stati emotivi e risvegli"
+                ],
+                "3.5 – Poesie nascoste e testi cantati": [
+                  "Composizione di inni, canti rituali, lamenti",
+                  "Integrazione nei Codex ritrovati",
+                  "Lettura stratificata e onirica"
+                ]
+              },
+              "ultimo_aggiornamento": "2025-06-03T05:51:45.818802Z",
+              "percentuale_creativa": "78%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva.",
+              "sottopunti": {
+                "3.1": {
+                  "titolo": "Frasi triadiche sui 3 livelli",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "3.2": {
+                  "titolo": "Composizione rituale e poetica nel Codex",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "3.3": {
+                  "titolo": "Oscillazione semantica nei testi fratturati",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "Fase IV – Scene narrative e struttura Libro I": {
+              "titolo": "Fase IV – Scene narrative e struttura Libro I",
+              "stato": "⚠️ In corso avanzato (76%)",
+              "cartella": "04_Scene_Libro_I",
+              "blocchi": {
+                "4.1 – Struttura narrativa del primo libro": [
+                  "Outline 3 Atti e 12 Sequenze",
+                  "Archi narrativi principali",
+                  "Sviluppo tensioni linguistiche"
+                ],
+                "4.2 – Scene chiave delle Arche": [
+                  "Attivazione delle 4 Arche principali",
+                  "Ambienti e città associati",
+                  "Effetti narrativi e linguistici"
+                ],
+                "4.3 – Frammenti linguistici integrati": [
+                  "Uso di frasi rituali e glifi nei dialoghi",
+                  "Momenti di frattura comunicativa",
+                  "Linguaggio come dispositivo narrativo"
+                ],
+                "4.4 – Scene interne ai Codex": [
+                  "Documenti fittizi inseriti nella trama",
+                  "Letture trovate dai personaggi",
+                  "Stratificazione tra narrazione e meta-narrazione"
+                ]
+              },
+              "percentuale_creativa": "76%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva.",
+              "sottopunti": {
+                "4.1": {
+                  "titolo": "Scrittura delle 12 sequenze principali",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "4.2": {
+                  "titolo": "Costruzione dell'Arca del Nodo",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "4.3": {
+                  "titolo": "Mappatura delle città e delle Arche",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "4.4": {
+                  "titolo": "Disegno della rete dei Risvegliati",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "Fase V – Materiali extra e spin-off": {
+              "titolo": "Fase V – Materiali extra e spin-off",
+              "stato": "⚠️ In corso (50%)",
+              "cartella": "05_Extra_SpinOff",
+              "blocchi": {
+                "5.1 – Manifesto Educativo dell’Orfanotrofio": [
+                  "Redazione narrativa e poetica",
+                  "Versione illustrata da integrare nel Codex"
+                ],
+                "5.2 – Frammenti narrativi esterni": [
+                  "Lettere, visioni, reliquie sonore",
+                  "Scene scollegate ma coerenti"
+                ],
+                "5.3 – Mappe e geografie simboliche": [
+                  "Mappa Rete delle Città",
+                  "Tracciati dei Risvegliati",
+                  "Simboli integrati nelle mappe"
+                ],
+                "5.4 – Appendici ed artefatti": [
+                  "Glossari, calendari, oggetti narrativi",
+                  "Manoscritti perduti",
+                  "Oggetti per il Gioco della Frattura"
+                ]
+              },
+              "percentuale_creativa": "50%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva.",
+              "sottopunti": {
+                "5.1": {
+                  "titolo": "Spin-off dell’Orfanotrofio",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "5.2": {
+                  "titolo": "Archivio narrativo e simbolico",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "Fase VI – Stesura narrativa guidata e costruzione dei mondi": {
+              "titolo": "Fase VI – Stesura narrativa guidata e costruzione dei mondi",
+              "descrizione": "In questa fase inizia la scrittura vera e propria, ma in modo controllato, strutturato e immerso nel mondo creato. Si gettano le fondamenta narrative per: capitoli, città, personaggi, epoche e voce narrativa.",
+              "finalità": [
+                "Rendere scrivibile il mondo",
+                "Trasformare ogni elemento costruito (lingua, simbolo, glifo) in dispositivo narrativo",
+                "Preparare una stesura che non improvvisa ma evoca"
+              ],
+              "blocchi": {
+                "6.1 – Costruzione dei Blocchi Narrativi": [
+                  "Timeline delle Città Sigillate (cronologia pubblica e nascosta)",
+                  "Fondazione delle città principali (6–9 strutture indipendenti)",
+                  "Nascita delle lingue e contaminazioni tra lingue vive e morte"
+                ],
+                "6.2 – Prototipo di Personaggi-chiave": [
+                  "Figure mitiche (es. il Primo Muto, l’ultimo che parlò)",
+                  "Protagonisti della Trilogia",
+                  "Risvegliati, traditori, fondatori delle lingue"
+                ],
+                "6.3 – Redazione dei Frammenti Archeologici": [
+                  "Pagine del Codex come documenti scoperti dai personaggi",
+                  "Canti, lettere, mappe, simboli integrabili nel testo"
+                ],
+                "6.4 – Impianto narrativo per la Trilogia": [
+                  "Titoli preliminari dei tre libri",
+                  "Capitoli seme e scheletro narrativo",
+                  "Modalità di narrazione (voce interna/esterna, punti di vista)"
+                ],
+                "6.5 – Gemellaggio tra forma e contenuto": [
+                  "Dove userai i simboli?",
+                  "Dove i glifi?",
+                  "Dove il Codex?",
+                  "Come leggerà il mondo esterno la scrittura dei risvegliati?"
+                ]
+              },
+              "ultimo_aggiornamento": "2025-06-03T05:40:28.786062Z",
+              "stato": "⚠️ In corso (71%)",
+              "percentuale_creativa": "71%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva.",
+              "sottopunti": {
+                "6.1": {
+                  "titolo": "Manifesto educativo dell'Orfanotrofio",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "⚠️",
+                  "operativo_interno": "🟢 base completata",
+                  "operativo_esterno": "🔴 nessun asset esportato",
+                  "note": "Attivate due città: Kaleph e Città Muta. Collegate ai personaggi principali Lerén e Arisel. Inizio coerenza narrativa fondata."
+                },
+                "6.2": {
+                  "titolo": "Creazione personaggi mitici e risvegliati",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato",
+                  "note": "Strutturati i 3 gruppi di personaggi con nomi, ruoli e glifi associati. Pronte le schede estese per Lerén e Arisel.",
+                  "personaggi_principali": {
+                    "Lerén": {
+                      "ruolo": "Protagonista del Libro I",
+                      "origine": "Kaleph (Archivio Fonometrico Mobile, Settore E4)",
+                      "prima_apparizione": "Sequenza 1 – Kaleph silente",
+                      "arca_collegata": "Arca del Nodo",
+                      "glifo": "𐌠",
+                      "lingua_madre": "Artefice Alta di Kaleph",
+                      "risveglio": "Decodifica di segnale instabile",
+                      "segno_caratteristico": "Non riesce a pronunciare la parola “Io” senza tremare",
+                      "oggetto_rituale": "Frammento di talismano fonico",
+                      "soglia_attivata": "Tremore del Silenzio → Gesto che Ricorda",
+                      "archetipo": "Il Portatore della Frattura",
+                      "conflitto": "Comprendere, ma allontanarsi da ciò che ama",
+                      "frase": "Non so più se ascolto o se la mia lingua mi ascolta."
+                    },
+                    "Arisel": {
+                      "ruolo": "Guida dei Risvegliati",
+                      "origine": "Città Muta (nome occultato)",
+                      "prima_apparizione": "Sequenza 7 – Incontro con la Risvegliata",
+                      "arca_collegata": "Arca del Vuoto",
+                      "glifo": "𐌡",
+                      "lingua_madre": "nessuna",
+                      "modalità_comunicazione": "Gesti, respiri, vibrazioni",
+                      "segno_caratteristico": "Cicatrice alla gola che pulsa quando qualcuno mente",
+                      "oggetto_rituale": "Velo trasparente segnato da 5 piegature d’aria",
+                      "soglia_attivata": "Vibrazione Piena",
+                      "archetipo": "La Custode del Gesto",
+                      "conflitto": "Non può parlare, ma il mondo le chiede una risposta",
+                      "frase": "Ogni mia parola è un’assenza che vibra."
+                    }
+                  }
+                },
+                "6.3": {
+                  "titolo": "Scene narrative prototipiche",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "6.4": {
+                  "titolo": "Frammenti pedagogici e liturgici",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "Fase VII – Editing e pubblicazione finale": {
+              "titolo": "Fase VII – Editing e pubblicazione finale",
+              "stato": "⬜ In preparazione (34%)",
+              "cartella": "07_Editing_Pubblicazione",
+              "blocchi": {
+                "7.1 – Impaginazione DOCX / PDF": [
+                  "Stesura finale in doppia colonna",
+                  "Simboli e glifi integrati",
+                  "Esportazione tipografica"
+                ],
+                "7.2 – File stampa": [
+                  "Creazione PDF stampa",
+                  "Ottimizzazione layout e margini",
+                  "Versione deluxe + edizione economica"
+                ],
+                "7.3 – Simboli editoriali": [
+                  "Design loghi narrativi",
+                  "Simboli sulla costa del libro",
+                  "Tavole di apertura"
+                ],
+                "7.4 – Marchio e casa editrice": [
+                  "Registrazione marchio",
+                  "Creazione marchio narrativo",
+                  "Inserimento legale"
+                ]
+              },
+              "percentuale_creativa": "34%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva.",
+              "sottopunti": {
+                "7.1": {
+                  "titolo": "Impaginazione narrativa del Codex",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "7.2": {
+                  "titolo": "Revisione scene e struttura trilogia",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "Fase VIII – Marketing, social e diffusione": {
+              "titolo": "Fase VIII – Marketing, social e diffusione",
+              "stato": "⚠️ In corso (65%)",
+              "cartella": "08_Marketing_ARG",
+              "blocchi": {
+                "8.1 – Strategia social e post criptici": [
+                  "Piano post Instagram, TikTok, Twitter",
+                  "Contenuti con glifi, frasi rituali, decifrabili",
+                  "Format virali (Occhio Silente, Spoiler Volontari)"
+                ],
+                "8.2 – Gioco della Frattura (ARG)": [
+                  "Fasi attivabili nel libro",
+                  "Portali online, audio, file codificati",
+                  "Costruzione community immersiva"
+                ],
+                "8.3 – Calendario pre-hype": [
+                  "Inizio a luglio 2025",
+                  "Roadmap contenuti settimanali",
+                  "Countdown narrativo"
+                ],
+                "8.4 – Sito autore e landing page": [
+                  "Sito ufficiale con Codex, download, teaser",
+                  "Pagina autore con progetto India e orfanotrofio",
+                  "Accessi riservati per contenuti bonus"
+                ]
+              },
+              "percentuale_creativa": "65%",
+              "percentuale_operativa": "0%",
+              "commento": "Percentuali creative basate su idee/simboli approvati, operative su materiali realmente prodotti.",
+              "materiale_esterno_richiesto": true,
+              "materiale_esterno_presente": false,
+              "note_operative": "Nessun glifo, tavola o file PDF è stato esportato o salvato esternamente. Tutti i contenuti sono ancora interni al sistema. Archiviazione esterna richiesta in fase successiva.",
+              "sottopunti": {
+                "8.1": {
+                  "titolo": "Post social e virali (13 format)",
+                  "stato_creativo": "✅",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟢 parzialmente completato",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "8.2": {
+                  "titolo": "SCEM e calendario interattivo",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                },
+                "8.3": {
+                  "titolo": "Attivazione ARG narrativo",
+                  "stato_creativo": "⚠️",
+                  "stato_operativo": "❌",
+                  "operativo_interno": "🟠 in sviluppo",
+                  "operativo_esterno": "🔴 nessun asset esportato"
+                }
+              }
+            },
+            "ultimo_aggiornamento": "2025-06-03T05:44:55.060480Z"
+          },
+          "roadmind": {
+            "id": "roadmind_001",
+            "nome": "ROADMIND – Registro Dinamico e Mappa Creativa",
+            "descrizione": "Contiene la versione estesa e tracciabile della roadmap creativa dell'opera. Ogni sotto-punto è monitorato con stato, data prevista e percentuale di completamento.",
+            "ultimo_aggiornamento": "2025-06-02T23:05:00.725418",
+            "link_struttura": "roadmap_creativa",
+            "percentuale_totale_creativa": 24,
+            "registro_sessioni": [],
+            "visualizzazione_stato": {
+              "Legenda": {
+                "⬜": "Non iniziato",
+                "⚠️": "In corso",
+                "✅": "Completato"
+              }
+            }
+          },
+          "produzione_ottimizzata": {
+            "deadline": "dicembre 2025",
+            "settimane_rimanenti": 26,
+            "stato_attuale": {
+              "scrittura_trama": {
+                "richiesto": "250 pagine",
+                "prodotte": "~30 pagine",
+                "urgenza": "alta"
+              },
+              "glifi_simboli": {
+                "stato": "completamente assenti come file",
+                "urgenza": "critica"
+              },
+              "codex": {
+                "bozze_testuali": "presenti",
+                "PDF_tavole": "mancanti",
+                "urgenza": "alta"
+              },
+              "marketing": {
+                "preparato": "format social e ARG",
+                "mancante": "contenuti reali",
+                "urgenza": "media"
+              },
+              "editing_pubblicazione": {
+                "stato": "non avviato",
+                "urgenza": "alta"
+              },
+              "sistema_SCEM": {
+                "struttura": "completa",
+                "contenuti": "tutti da generare",
+                "urgenza": "media"
+              }
+            },
+            "fattibilità": "possibile con produzione settimanale costante",
+            "ritmo_richiesto": {
+              "scrittura": "10 pagine a settimana",
+              "produzione_glifi": "3 glifi/tavole a settimana",
+              "impaginazione_codex": "1 sezione completa a settimana",
+              "avvio_marketing": "entro metà luglio"
+            },
+            "azioni_consigliate": [
+              "Creare calendario settimanale fino a dicembre",
+              "Prioritizzare scrittura e produzione visiva",
+              "Allineare materiali reali con SCEM",
+              "Impostare sistema di monitoraggio settimanale"
+            ]
+          },
+          "calendario_produzione": {
+            "settimane": [
+              {
+                "numero": 1,
+                "fase": "Fase I – Struttura narrativa e linguistica",
+                "task_codice": "1.1",
+                "task_descrizione": "Definizione struttura narrativa (3 atti, 12 sequenze)",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 2,
+                "fase": "Fase I – Struttura narrativa e linguistica",
+                "task_codice": "1.2",
+                "task_descrizione": "Costruzione della struttura linguistica base",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 3,
+                "fase": "Fase I – Struttura narrativa e linguistica",
+                "task_codice": "1.3",
+                "task_descrizione": "Inserimento delle lingue nel mondo diegetico",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 4,
+                "fase": "Fase I – Struttura narrativa e linguistica",
+                "task_codice": "1.4",
+                "task_descrizione": "Schema di relazioni tra linguaggio e realtà",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 5,
+                "fase": "Fase I – Struttura narrativa e linguistica",
+                "task_codice": "1.5",
+                "task_descrizione": "Modello narrativo a specchio linguistico",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 6,
+                "fase": "Fase II – Tavole e Simboli",
+                "task_codice": "2.1",
+                "task_descrizione": "Generazione dei 27 glifi originali",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 7,
+                "fase": "Fase II – Tavole e Simboli",
+                "task_codice": "2.2",
+                "task_descrizione": "Suddivisione in 3 gruppi mitico-funzionali",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 8,
+                "fase": "Fase II – Tavole e Simboli",
+                "task_codice": "2.3",
+                "task_descrizione": "Associazione glifo–parola–concetto",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 9,
+                "fase": "Fase II – Tavole e Simboli",
+                "task_codice": "2.4",
+                "task_descrizione": "Creazione della Tavola Sinottica illustrata",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 10,
+                "fase": "Fase II – Tavole e Simboli",
+                "task_codice": "2.5",
+                "task_descrizione": "Progettazione grafica del Codex illustrato",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 11,
+                "fase": "Fase II – Tavole e Simboli",
+                "task_codice": "2.6",
+                "task_descrizione": "Integrazione simbolica nel sistema SCEM",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 12,
+                "fase": "Fase III – Codici linguistici e poetici",
+                "task_codice": "3.1",
+                "task_descrizione": "Frasi triadiche sui 3 livelli",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 13,
+                "fase": "Fase III – Codici linguistici e poetici",
+                "task_codice": "3.2",
+                "task_descrizione": "Composizione rituale e poetica nel Codex",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 14,
+                "fase": "Fase III – Codici linguistici e poetici",
+                "task_codice": "3.3",
+                "task_descrizione": "Oscillazione semantica nei testi fratturati",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 15,
+                "fase": "Fase IV – Scene narrative e struttura Libro I",
+                "task_codice": "4.1",
+                "task_descrizione": "Scrittura delle 12 sequenze principali",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 16,
+                "fase": "Fase IV – Scene narrative e struttura Libro I",
+                "task_codice": "4.2",
+                "task_descrizione": "Costruzione dell'Arca del Nodo",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 17,
+                "fase": "Fase IV – Scene narrative e struttura Libro I",
+                "task_codice": "4.3",
+                "task_descrizione": "Mappatura delle città e delle Arche",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 18,
+                "fase": "Fase IV – Scene narrative e struttura Libro I",
+                "task_codice": "4.4",
+                "task_descrizione": "Disegno della rete dei Risvegliati",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 19,
+                "fase": "Fase V – Materiali extra e spin-off",
+                "task_codice": "5.1",
+                "task_descrizione": "Spin-off dell’Orfanotrofio",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 20,
+                "fase": "Fase V – Materiali extra e spin-off",
+                "task_codice": "5.2",
+                "task_descrizione": "Archivio narrativo e simbolico",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 21,
+                "fase": "Fase VI – Stesura narrativa guidata e costruzione dei mondi",
+                "task_codice": "6.1",
+                "task_descrizione": "Manifesto educativo dell'Orfanotrofio",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "⚠️",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 22,
+                "fase": "Fase VI – Stesura narrativa guidata e costruzione dei mondi",
+                "task_codice": "6.2",
+                "task_descrizione": "Creazione personaggi mitici e risvegliati",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🟡 attiva (solo interno)"
+              },
+              {
+                "numero": 23,
+                "fase": "Fase VI – Stesura narrativa guidata e costruzione dei mondi",
+                "task_codice": "6.3",
+                "task_descrizione": "Scene narrative prototipiche",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 24,
+                "fase": "Fase VI – Stesura narrativa guidata e costruzione dei mondi",
+                "task_codice": "6.4",
+                "task_descrizione": "Frammenti pedagogici e liturgici",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 25,
+                "fase": "Fase VII – Editing e pubblicazione finale",
+                "task_codice": "7.1",
+                "task_descrizione": "Impaginazione narrativa del Codex",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 26,
+                "fase": "Fase VII – Editing e pubblicazione finale",
+                "task_codice": "7.2",
+                "task_descrizione": "Revisione scene e struttura trilogia",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 27,
+                "fase": "Fase VIII – Marketing, social e diffusione",
+                "task_codice": "8.1",
+                "task_descrizione": "Post social e virali (13 format)",
+                "monitoraggio_stato": "completato",
+                "creativo": "✅",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 28,
+                "fase": "Fase VIII – Marketing, social e diffusione",
+                "task_codice": "8.2",
+                "task_descrizione": "SCEM e calendario interattivo",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              },
+              {
+                "numero": 29,
+                "fase": "Fase VIII – Marketing, social e diffusione",
+                "task_codice": "8.3",
+                "task_descrizione": "Attivazione ARG narrativo",
+                "monitoraggio_stato": "attivo",
+                "creativo": "⚠️",
+                "operativo": "❌",
+                "stato_monitoraggio": "🔴 non avviata"
+              }
+            ],
+            "ultima_settimana_attiva": 29
+          },
+          "storico_percentuali": {
+            "versione_precedente": {
+              "Settimana Zero – Propedeutica Totale": {
+                "creativa": 100.0,
+                "operativa": 100.0
+              },
+              "Fase I – Struttura narrativa e linguistica": {
+                "creativa": 92.0,
+                "operativa": 40.0
+              },
+              "Fase II – Tavole e Simboli": {
+                "creativa": 100.0,
+                "operativa": 0.0
+              },
+              "Fase III – Codici linguistici e poetici": {
+                "creativa": 78.0,
+                "operativa": 35.0
+              },
+              "Fase IV – Scene narrative e struttura Libro I": {
+                "creativa": 76.0,
+                "operativa": 15.0
+              },
+              "Fase V – Materiali extra e spin-off": {
+                "creativa": 50.0,
+                "operativa": 10.0
+              },
+              "Fase VI – Stesura narrativa guidata e costruzione dei mondi": {
+                "creativa": 71.0,
+                "operativa": 20.0
+              },
+              "Fase VII – Editing e pubblicazione finale": {
+                "creativa": 34.0,
+                "operativa": 5.0
+              },
+              "Fase VIII – Marketing, social e diffusione": {
+                "creativa": 65.0,
+                "operativa": 12.0
+              }
+            },
+            "ultimo_aggiornamento": "2025-06-03"
+          }
+        },
+        "materiali": {
+          "outline": {},
+          "codex_lingua_innominata": {},
+          "codex_lingua_risvegliati": {},
+          "simboli_glifi": {}
+        },
+        "semi_narrativi": {
+          "S1": {
+            "titolo": "Talismano Fonico Spezzato",
+            "descrizione": "Oggetto posseduto da Lerén che reagisce a suoni fratturati. Nessuno sa chi glielo abbia dato. Vibra quando qualcuno mente.",
+            "apparizione": "Sequenza 2 – Archivio di Kaleph",
+            "collegamento_futuro": "Serve per attivare l’Arca Chiave nel Libro II"
+          },
+          "S2": {
+            "titolo": "L’Ombra che Ascolta",
+            "descrizione": "Una figura silenziosa osserva Lerén nei corridoi. Non è visibile se guardata direttamente.",
+            "apparizione": "Sequenza 3 – Discesa nei livelli proibiti",
+            "collegamento_futuro": "Identità svelata nel Libro III: il Primo Muto"
+          },
+          "S3": {
+            "titolo": "Il Glifo che Sanguina",
+            "descrizione": "Un simbolo incastonato in una parete cambia forma e sembra sanguinare quando viene letto da Arisel.",
+            "apparizione": "Sequenza 7 – Città Muta",
+            "collegamento_futuro": "Glifo corrotto da un Verbo Spezzato; sarà usato come arma linguistica nel Libro III"
+          },
+          "S4": {
+            "titolo": "Eco Non Autorizzata",
+            "descrizione": "Durante una comunicazione, una voce non identificata pronuncia una frase in Lingua dei Risvegliati.",
+            "apparizione": "Sequenza 5 – Comunicazione tra torri",
+            "collegamento_futuro": "È la prima prova dell’esistenza di una rete risvegliata nei sogni (Libro II)"
+          },
+          "S5": {
+            "titolo": "Il Sogno della Città che Respira",
+            "descrizione": "Lerén sogna una città fatta di vento che piega l’aria da sola.",
+            "apparizione": "Sequenza 4 – Notte dopo la Frattura",
+            "collegamento_futuro": "Introdurrà l’Arca Onirica nel Libro II"
+          },
+          "S6": {
+            "titolo": "Parola Incompiuta",
+            "descrizione": "In una liturgia, un sacerdote si blocca prima di pronunciare una parola. I presenti avvertono un brivido.",
+            "apparizione": "Sequenza 6 – Tempio del Verbo Spezzato",
+            "collegamento_futuro": "Parola proibita che attiva l’Arca del Silenzio nel Libro III"
+          },
+          "S7": {
+            "titolo": "La Lettera Senza Firmatario",
+            "descrizione": "Una missiva ritrovata parla di una città dimenticata, ma nessuno riconosce la calligrafia.",
+            "apparizione": "Sequenza 8 – Archivio interrotto",
+            "collegamento_futuro": "Indizio della rete nascosta dei risvegliati (Libro II)"
+          },
+          "S8": {
+            "titolo": "Mappa Strappata",
+            "descrizione": "Una porzione di mappa sembra raffigurare una città che non esiste su nessun registro.",
+            "apparizione": "Sequenza 1 – Preparazione alla missione",
+            "collegamento_futuro": "La città appare nel Libro III come roccaforte dei Corrotti"
+          },
+          "S9": {
+            "titolo": "Il Silenzio che Urla",
+            "descrizione": "Durante un’esercitazione, un'intera sala cade nel silenzio. Una bambina inizia a tremare e piangere senza motivo.",
+            "apparizione": "Sequenza 9 – Orfanotrofio",
+            "collegamento_futuro": "La bambina è una portatrice inconsapevole dell’Arca Onirica"
+          },
+          "S10": {
+            "titolo": "Frammento di Codex Dimenticato",
+            "descrizione": "Un frammento scritto in Lingua Innominata viene nascosto da un personaggio secondario.",
+            "apparizione": "Sequenza 11 – Riorganizzazione dell’Archivio",
+            "collegamento_futuro": "Il frammento contiene l’unico modo per chiudere la Frattura nel Libro III"
+          },
+          "S11": {
+            "titolo": "Soglia che Trema",
+            "descrizione": "Un portale si deforma quando un risvegliato si avvicina. La materia sembra liquida.",
+            "apparizione": "Sequenza 10 – Ingresso nella Zona di Interferenza",
+            "collegamento_futuro": "Il portale conduce a un’interzona sognata che sarà esplorata nel Libro II"
+          },
+          "S12": {
+            "titolo": "Il Gesto Interrotto",
+            "descrizione": "Arisel inizia un rituale ma si blocca a metà. Dice solo: 'Non ancora…'",
+            "apparizione": "Sequenza 12 – Epilogo rituale",
+            "collegamento_futuro": "Completerà il gesto nel finale della trilogia"
+          }
+        },
+        "scene": {
+          "scena_1_Orfanotrofio": {
+            "titolo": "Prima della Parola",
+            "luogo": "Orfanotrofio – Settore Interno Silente, Città Muta",
+            "tempo": "Poco prima dell’attivazione dell’Arca del Nodo",
+            "voce_narrativa": "Esterno poetico-realistico",
+            "contenuto": "L’aula non aveva porte.\nSolo un’apertura nell’aria.\nNon entrava luce, ma visione.\n\nIl bambino era seduto al centro, le gambe incrociate, gli occhi fissi su un punto che non esisteva. Il respiro corto, ma disciplinato. Le mani immobili.\n\nEra il suo terzo giorno senza parlare.\nIl terzo giorno in cui gli veniva chiesto di ascoltare il silenzio e di non nominarlo.\n\nAttorno a lui, gli altri bambini non parlavano. Alcuni emettevano piccoli suoni gutturali, altri battevano un dito contro la pelle nuda del braccio, come per sentire se erano ancora lì. Uno solo piangeva, in silenzio.\n\nPoi la Maestra entrò.\nNon camminava: sembrava riposare nell’aria ad ogni passo.\n\nAveva un velo trasparente davanti alla bocca, segnato da cinque piccole piegature, come cicatrici d’aria. Portava una ciotola vuota tra le mani. Si fermò di fronte al bambino e inclinò il capo.\n\nNon parlò.\nMa lo sguardo frantumò qualcosa nel petto del piccolo.\nE il piccolo parlò.\n\n«Io… non so più se è la mia lingua… o se lei… mi ascolta.»\n\nFu allora che si verificò la prima piegatura involontaria.\nUna vibrazione nell’aria, una sottile flessione nel suono che nessuno aveva emesso.\n\nIl bambino tossì.\nGli altri lo guardarono.\n\nLa Maestra sollevò il velo.\nToccò la gola del bambino con due dita.\nSussurrò qualcosa che nessuno udì, ma tutti compresero.\n\nLa scena venne archiviata tra i “Gesti che Ricordano”.\n\nE da quel giorno, il bambino non parlò più.\nSolo l’aria, attorno a lui, iniziò a tremare quando pensava con sincerità.",
+            "collegamenti_codex": [
+              "Livello: Gesto che Ricorda",
+              "Trasmissione per risonanza",
+              "Lingua dei Risvegliati"
+            ],
+            "personaggi_coinvolti": [
+              "Un bambino anonimo",
+              "La Maestra del Velo"
+            ],
+            "implicazioni_future": [
+              "Il bambino diventerà portatore dell’Arca Onirica (Libro II)",
+              "La scena sarà ricordata da Arisel nel Libro III come origine di un gesto"
+            ]
+          }
+        }
+      },
+      "libro_2": {
+        "titolo": "Il Silenzio che Parla",
+        "roadmap": {},
+        "semi_narrativi": {}
+      },
+      "libro_3": {
+        "titolo": "La Voce che Ricompone",
+        "roadmap": {},
+        "chiusure_simboliche": {}
+      }
+    }
+  },
+  "codex_lingua_innominata": {
+    "stato": "in sviluppo",
+    "sezioni": {
+      "IV": {
+        "titolo": "Sezione IV – Sintassi Distruttiva",
+        "descrizione": "La Lingua Innominata non segue una sintassi ordinaria. La costruzione del senso è fratturata, instabile e rituale. Ogni frase può contenere significati multipli e attivare effetti linguistici sull’ambiente o sulla percezione. La sintassi non è uno strumento, ma una manifestazione della frattura semantica.",
+        "sottosezioni": [
+          {
+            "titolo": "1. Struttura frasale non lineare",
+            "contenuto": "Le frasi non hanno ordine fisso. I modelli sintattici variano tra VSO, SOV, OSV, influenzati dalla risonanza fonica e dalla volontà del parlante. Alcune frasi si spezzano volontariamente a metà (Punto di Frattura), lasciando il significato incompiuto come parte dell’effetto linguistico."
+          },
+          {
+            "titolo": "2. Oscillazione semantica",
+            "contenuto": "Ogni parola possiede 2 o 3 significati attivi simultaneamente. L’effetto di una frase dipende dalla tensione semantica tra queste possibilità. Questa ambiguità è strutturale, non risolvibile, e viene percepita come vibrazione."
+          },
+          {
+            "titolo": "3. Frasi Mute",
+            "contenuto": "Alcune frasi sono composte da glifi non pronunciabili. Possono essere solo pensate, immaginate o tracciate nell’aria. Hanno valore rituale e sono valide solo in condizioni di silenzio assoluto o in stato visionario."
+          },
+          {
+            "titolo": "4. Nessi non causali",
+            "contenuto": "Non esiste una grammatica di causa-effetto. Le frasi connettono eventi per analogia, risonanza o contatto simbolico. La grammatica è associativa e non logica."
+          },
+          {
+            "titolo": "5. Sintassi di piegatura",
+            "contenuto": "Le frasi possono piegare la realtà o la percezione. Dopo la pronuncia o il pensiero di una frase, l’ambiente può modificarsi (ombra che svanisce, suono che si ripete, figura che sfuma). L’effetto narrativo è parte integrante della sintassi."
+          }
+        ],
+        "esempi": [
+          {
+            "frase": "ʔulêh – tra / kʰōn – scivolare / êṛ – occhio",
+            "traduzioni": [
+              "Scivola tra gli occhi",
+              "L’occhio ha dimenticato",
+              "Ciò che guarda non si regge"
+            ],
+            "effetto_narrativo": "Il personaggio perde momentaneamente la capacità di distinguere i volti."
+          }
+        ]
+      },
+      "V": {
+        "titolo": "Vocabolario Base – Reale, Sognato, Fratturato",
+        "livelli": {
+          "reale": [
+            {
+              "glifo": "A01",
+              "parola": "ʔulêh",
+              "tipo": "verbo",
+              "significato": "scivolare tra / transitare senza traccia",
+              "uso_rituale": "dissolvere i confini percettivi"
+            },
+            {
+              "glifo": "A02",
+              "parola": "tērak",
+              "tipo": "nome",
+              "significato": "contenitore di silenzio / archivio chiuso",
+              "uso_rituale": "protegge dalla Frattura Fonica"
+            },
+            {
+              "glifo": "A03",
+              "parola": "nūr",
+              "tipo": "nome",
+              "significato": "nodo / punto di torsione / snodo linguistico",
+              "uso_rituale": "attivazione Arche"
+            },
+            {
+              "glifo": "A04",
+              "parola": "darāṇ",
+              "tipo": "verbo",
+              "significato": "ripetere con variazione / ricapitolare",
+              "uso_rituale": "reintegra frasi spezzate"
+            },
+            {
+              "glifo": "A05",
+              "parola": "dárekh",
+              "tipo": "verbo",
+              "significato": "unire / sigillare / ricucire",
+              "uso_rituale": "chiudere temporaneamente una Frattura"
+            },
+            {
+              "glifo": "A06",
+              "parola": "kōlun",
+              "tipo": "nome",
+              "significato": "passaggio chiuso / corridoio mutante",
+              "uso_rituale": "genera deviazioni labirintiche"
+            },
+            {
+              "glifo": "A07",
+              "parola": "gēsh",
+              "tipo": "aggettivo",
+              "significato": "stabile / verificato / fermo",
+              "uso_rituale": "fonda il linguaggio rituale"
+            },
+            {
+              "glifo": "A08",
+              "parola": "yūrê",
+              "tipo": "verbo",
+              "significato": "contenere / isolare / circondare",
+              "uso_rituale": "neutralizza parole corrotte"
+            },
+            {
+              "glifo": "A09",
+              "parola": "rāzāl",
+              "tipo": "nome",
+              "significato": "memoria tracciata / segno indelebile",
+              "uso_rituale": "sigilla il linguaggio in forma fissa"
+            },
+            {
+              "glifo": "R10",
+              "parola": "r_parola_10",
+              "tipo": "nome",
+              "significato": "R significato fittizio 10",
+              "uso_rituale": "R uso rituale generico 10"
+            },
+            {
+              "glifo": "R11",
+              "parola": "r_parola_11",
+              "tipo": "nome",
+              "significato": "R significato fittizio 11",
+              "uso_rituale": "R uso rituale generico 11"
+            },
+            {
+              "glifo": "R12",
+              "parola": "r_parola_12",
+              "tipo": "nome",
+              "significato": "R significato fittizio 12",
+              "uso_rituale": "R uso rituale generico 12"
+            },
+            {
+              "glifo": "R13",
+              "parola": "r_parola_13",
+              "tipo": "nome",
+              "significato": "R significato fittizio 13",
+              "uso_rituale": "R uso rituale generico 13"
+            },
+            {
+              "glifo": "R14",
+              "parola": "r_parola_14",
+              "tipo": "nome",
+              "significato": "R significato fittizio 14",
+              "uso_rituale": "R uso rituale generico 14"
+            },
+            {
+              "glifo": "R15",
+              "parola": "r_parola_15",
+              "tipo": "nome",
+              "significato": "R significato fittizio 15",
+              "uso_rituale": "R uso rituale generico 15"
+            },
+            {
+              "glifo": "R16",
+              "parola": "r_parola_16",
+              "tipo": "nome",
+              "significato": "R significato fittizio 16",
+              "uso_rituale": "R uso rituale generico 16"
+            },
+            {
+              "glifo": "R17",
+              "parola": "r_parola_17",
+              "tipo": "nome",
+              "significato": "R significato fittizio 17",
+              "uso_rituale": "R uso rituale generico 17"
+            },
+            {
+              "glifo": "R18",
+              "parola": "r_parola_18",
+              "tipo": "nome",
+              "significato": "R significato fittizio 18",
+              "uso_rituale": "R uso rituale generico 18"
+            },
+            {
+              "glifo": "R19",
+              "parola": "r_parola_19",
+              "tipo": "nome",
+              "significato": "R significato fittizio 19",
+              "uso_rituale": "R uso rituale generico 19"
+            },
+            {
+              "glifo": "R20",
+              "parola": "r_parola_20",
+              "tipo": "nome",
+              "significato": "R significato fittizio 20",
+              "uso_rituale": "R uso rituale generico 20"
+            },
+            {
+              "glifo": "R21",
+              "parola": "r_parola_21",
+              "tipo": "nome",
+              "significato": "R significato fittizio 21",
+              "uso_rituale": "R uso rituale generico 21"
+            },
+            {
+              "glifo": "R22",
+              "parola": "r_parola_22",
+              "tipo": "nome",
+              "significato": "R significato fittizio 22",
+              "uso_rituale": "R uso rituale generico 22"
+            },
+            {
+              "glifo": "R23",
+              "parola": "r_parola_23",
+              "tipo": "nome",
+              "significato": "R significato fittizio 23",
+              "uso_rituale": "R uso rituale generico 23"
+            },
+            {
+              "glifo": "R24",
+              "parola": "r_parola_24",
+              "tipo": "nome",
+              "significato": "R significato fittizio 24",
+              "uso_rituale": "R uso rituale generico 24"
+            },
+            {
+              "glifo": "R25",
+              "parola": "r_parola_25",
+              "tipo": "nome",
+              "significato": "R significato fittizio 25",
+              "uso_rituale": "R uso rituale generico 25"
+            },
+            {
+              "glifo": "R26",
+              "parola": "r_parola_26",
+              "tipo": "nome",
+              "significato": "R significato fittizio 26",
+              "uso_rituale": "R uso rituale generico 26"
+            },
+            {
+              "glifo": "R27",
+              "parola": "r_parola_27",
+              "tipo": "nome",
+              "significato": "R significato fittizio 27",
+              "uso_rituale": "R uso rituale generico 27"
+            },
+            {
+              "glifo": "R28",
+              "parola": "r_parola_28",
+              "tipo": "nome",
+              "significato": "R significato fittizio 28",
+              "uso_rituale": "R uso rituale generico 28"
+            },
+            {
+              "glifo": "R29",
+              "parola": "r_parola_29",
+              "tipo": "nome",
+              "significato": "R significato fittizio 29",
+              "uso_rituale": "R uso rituale generico 29"
+            },
+            {
+              "glifo": "R30",
+              "parola": "r_parola_30",
+              "tipo": "nome",
+              "significato": "R significato fittizio 30",
+              "uso_rituale": "R uso rituale generico 30"
+            },
+            {
+              "glifo": "R31",
+              "parola": "r_parola_31",
+              "tipo": "nome",
+              "significato": "R significato fittizio 31",
+              "uso_rituale": "R uso rituale generico 31"
+            },
+            {
+              "glifo": "R32",
+              "parola": "r_parola_32",
+              "tipo": "nome",
+              "significato": "R significato fittizio 32",
+              "uso_rituale": "R uso rituale generico 32"
+            },
+            {
+              "glifo": "R33",
+              "parola": "r_parola_33",
+              "tipo": "nome",
+              "significato": "R significato fittizio 33",
+              "uso_rituale": "R uso rituale generico 33"
+            }
+          ],
+          "sognato": [
+            {
+              "glifo": "S01",
+              "parola": "ēlən",
+              "tipo": "nome",
+              "significato": "luogo che si dissolve nel tempo",
+              "uso_rituale": "allenta la memoria spaziale"
+            },
+            {
+              "glifo": "S02",
+              "parola": "thūmā",
+              "tipo": "nome",
+              "significato": "eco di pensiero / memoria inafferrabile",
+              "uso_rituale": "evoca visioni residue"
+            },
+            {
+              "glifo": "S03",
+              "parola": "rāphē",
+              "tipo": "verbo",
+              "significato": "discendere in sogno / perdersi nella visione",
+              "uso_rituale": "favorisce la connessione onirica"
+            },
+            {
+              "glifo": "S04",
+              "parola": "šūnək",
+              "tipo": "aggettivo",
+              "significato": "invisibile ma presente / assente tangibile",
+              "uso_rituale": "crea presenze sfocate"
+            },
+            {
+              "glifo": "S05",
+              "parola": "ḥaiṁ",
+              "tipo": "verbo",
+              "significato": "respirare nel sogno / chiamare l'assente",
+              "uso_rituale": "attira visioni o entità"
+            },
+            {
+              "glifo": "S06",
+              "parola": "mālū",
+              "tipo": "nome",
+              "significato": "canto non udito / melodia interiore",
+              "uso_rituale": "risveglia memorie profonde"
+            },
+            {
+              "glifo": "S07",
+              "parola": "kōlāš",
+              "tipo": "aggettivo",
+              "significato": "splendente ma cieco / visto ma non visto",
+              "uso_rituale": "inverte la percezione"
+            },
+            {
+              "glifo": "S08",
+              "parola": "lūzēn",
+              "tipo": "nome",
+              "significato": "luogo che parla da sé / spazio narrante",
+              "uso_rituale": "evoca narrazioni spontanee"
+            },
+            {
+              "glifo": "S09",
+              "parola": "bēnūṭ",
+              "tipo": "verbo",
+              "significato": "piegare la soglia del sogno / trapassare in veglia",
+              "uso_rituale": "apre portali tra stati"
+            },
+            {
+              "glifo": "S10",
+              "parola": "s_parola_10",
+              "tipo": "nome",
+              "significato": "S significato fittizio 10",
+              "uso_rituale": "S uso rituale generico 10"
+            },
+            {
+              "glifo": "S11",
+              "parola": "s_parola_11",
+              "tipo": "nome",
+              "significato": "S significato fittizio 11",
+              "uso_rituale": "S uso rituale generico 11"
+            },
+            {
+              "glifo": "S12",
+              "parola": "s_parola_12",
+              "tipo": "nome",
+              "significato": "S significato fittizio 12",
+              "uso_rituale": "S uso rituale generico 12"
+            },
+            {
+              "glifo": "S13",
+              "parola": "s_parola_13",
+              "tipo": "nome",
+              "significato": "S significato fittizio 13",
+              "uso_rituale": "S uso rituale generico 13"
+            },
+            {
+              "glifo": "S14",
+              "parola": "s_parola_14",
+              "tipo": "nome",
+              "significato": "S significato fittizio 14",
+              "uso_rituale": "S uso rituale generico 14"
+            },
+            {
+              "glifo": "S15",
+              "parola": "s_parola_15",
+              "tipo": "nome",
+              "significato": "S significato fittizio 15",
+              "uso_rituale": "S uso rituale generico 15"
+            },
+            {
+              "glifo": "S16",
+              "parola": "s_parola_16",
+              "tipo": "nome",
+              "significato": "S significato fittizio 16",
+              "uso_rituale": "S uso rituale generico 16"
+            },
+            {
+              "glifo": "S17",
+              "parola": "s_parola_17",
+              "tipo": "nome",
+              "significato": "S significato fittizio 17",
+              "uso_rituale": "S uso rituale generico 17"
+            },
+            {
+              "glifo": "S18",
+              "parola": "s_parola_18",
+              "tipo": "nome",
+              "significato": "S significato fittizio 18",
+              "uso_rituale": "S uso rituale generico 18"
+            },
+            {
+              "glifo": "S19",
+              "parola": "s_parola_19",
+              "tipo": "nome",
+              "significato": "S significato fittizio 19",
+              "uso_rituale": "S uso rituale generico 19"
+            },
+            {
+              "glifo": "S20",
+              "parola": "s_parola_20",
+              "tipo": "nome",
+              "significato": "S significato fittizio 20",
+              "uso_rituale": "S uso rituale generico 20"
+            },
+            {
+              "glifo": "S21",
+              "parola": "s_parola_21",
+              "tipo": "nome",
+              "significato": "S significato fittizio 21",
+              "uso_rituale": "S uso rituale generico 21"
+            },
+            {
+              "glifo": "S22",
+              "parola": "s_parola_22",
+              "tipo": "nome",
+              "significato": "S significato fittizio 22",
+              "uso_rituale": "S uso rituale generico 22"
+            },
+            {
+              "glifo": "S23",
+              "parola": "s_parola_23",
+              "tipo": "nome",
+              "significato": "S significato fittizio 23",
+              "uso_rituale": "S uso rituale generico 23"
+            },
+            {
+              "glifo": "S24",
+              "parola": "s_parola_24",
+              "tipo": "nome",
+              "significato": "S significato fittizio 24",
+              "uso_rituale": "S uso rituale generico 24"
+            },
+            {
+              "glifo": "S25",
+              "parola": "s_parola_25",
+              "tipo": "nome",
+              "significato": "S significato fittizio 25",
+              "uso_rituale": "S uso rituale generico 25"
+            },
+            {
+              "glifo": "S26",
+              "parola": "s_parola_26",
+              "tipo": "nome",
+              "significato": "S significato fittizio 26",
+              "uso_rituale": "S uso rituale generico 26"
+            },
+            {
+              "glifo": "S27",
+              "parola": "s_parola_27",
+              "tipo": "nome",
+              "significato": "S significato fittizio 27",
+              "uso_rituale": "S uso rituale generico 27"
+            },
+            {
+              "glifo": "S28",
+              "parola": "s_parola_28",
+              "tipo": "nome",
+              "significato": "S significato fittizio 28",
+              "uso_rituale": "S uso rituale generico 28"
+            },
+            {
+              "glifo": "S29",
+              "parola": "s_parola_29",
+              "tipo": "nome",
+              "significato": "S significato fittizio 29",
+              "uso_rituale": "S uso rituale generico 29"
+            },
+            {
+              "glifo": "S30",
+              "parola": "s_parola_30",
+              "tipo": "nome",
+              "significato": "S significato fittizio 30",
+              "uso_rituale": "S uso rituale generico 30"
+            },
+            {
+              "glifo": "S31",
+              "parola": "s_parola_31",
+              "tipo": "nome",
+              "significato": "S significato fittizio 31",
+              "uso_rituale": "S uso rituale generico 31"
+            },
+            {
+              "glifo": "S32",
+              "parola": "s_parola_32",
+              "tipo": "nome",
+              "significato": "S significato fittizio 32",
+              "uso_rituale": "S uso rituale generico 32"
+            },
+            {
+              "glifo": "S33",
+              "parola": "s_parola_33",
+              "tipo": "nome",
+              "significato": "S significato fittizio 33",
+              "uso_rituale": "S uso rituale generico 33"
+            }
+          ],
+          "fratturato": [
+            {
+              "glifo": "F01",
+              "parola": "ŋūṛē",
+              "tipo": "verbo",
+              "significato": "decomporsi / parlare e svanire / corrompere",
+              "uso_rituale": "cancella frammenti narrativi"
+            },
+            {
+              "glifo": "F02",
+              "parola": "vṛalē",
+              "tipo": "nome",
+              "significato": "frammento di parola morta",
+              "uso_rituale": "riattiva errori semantici"
+            },
+            {
+              "glifo": "F03",
+              "parola": "krāš",
+              "tipo": "verbo",
+              "significato": "rompere la sintassi / espellere la struttura",
+              "uso_rituale": "disgrega frasi rituali"
+            },
+            {
+              "glifo": "F04",
+              "parola": "šarək",
+              "tipo": "nome",
+              "significato": "eco di parola mai detta",
+              "uso_rituale": "attiva crisi semantica locale"
+            },
+            {
+              "glifo": "F05",
+              "parola": "drūkē",
+              "tipo": "verbo",
+              "significato": "pronunciare senza lingua / evocare il vuoto",
+              "uso_rituale": "apre fenditure linguistiche"
+            },
+            {
+              "glifo": "F06",
+              "parola": "ḥōləm",
+              "tipo": "nome",
+              "significato": "lingua morta che ancora parla",
+              "uso_rituale": "confonde i parlanti"
+            },
+            {
+              "glifo": "F07",
+              "parola": "ṭahrūk",
+              "tipo": "aggettivo",
+              "significato": "instabile / non leggibile / fuso",
+              "uso_rituale": "rende illeggibile il linguaggio circostante"
+            },
+            {
+              "glifo": "F08",
+              "parola": "mēvūn",
+              "tipo": "nome",
+              "significato": "scrittura auto-cancellante",
+              "uso_rituale": "distrugge le iscrizioni del Codex"
+            },
+            {
+              "glifo": "F09",
+              "parola": "tārūm",
+              "tipo": "verbo",
+              "significato": "accecare la lingua / invertire senso",
+              "uso_rituale": "frattura permanente del simbolo"
+            },
+            {
+              "glifo": "F10",
+              "parola": "f_parola_10",
+              "tipo": "nome",
+              "significato": "F significato fittizio 10",
+              "uso_rituale": "F uso rituale generico 10"
+            },
+            {
+              "glifo": "F11",
+              "parola": "f_parola_11",
+              "tipo": "nome",
+              "significato": "F significato fittizio 11",
+              "uso_rituale": "F uso rituale generico 11"
+            },
+            {
+              "glifo": "F12",
+              "parola": "f_parola_12",
+              "tipo": "nome",
+              "significato": "F significato fittizio 12",
+              "uso_rituale": "F uso rituale generico 12"
+            },
+            {
+              "glifo": "F13",
+              "parola": "f_parola_13",
+              "tipo": "nome",
+              "significato": "F significato fittizio 13",
+              "uso_rituale": "F uso rituale generico 13"
+            },
+            {
+              "glifo": "F14",
+              "parola": "f_parola_14",
+              "tipo": "nome",
+              "significato": "F significato fittizio 14",
+              "uso_rituale": "F uso rituale generico 14"
+            },
+            {
+              "glifo": "F15",
+              "parola": "f_parola_15",
+              "tipo": "nome",
+              "significato": "F significato fittizio 15",
+              "uso_rituale": "F uso rituale generico 15"
+            },
+            {
+              "glifo": "F16",
+              "parola": "f_parola_16",
+              "tipo": "nome",
+              "significato": "F significato fittizio 16",
+              "uso_rituale": "F uso rituale generico 16"
+            },
+            {
+              "glifo": "F17",
+              "parola": "f_parola_17",
+              "tipo": "nome",
+              "significato": "F significato fittizio 17",
+              "uso_rituale": "F uso rituale generico 17"
+            },
+            {
+              "glifo": "F18",
+              "parola": "f_parola_18",
+              "tipo": "nome",
+              "significato": "F significato fittizio 18",
+              "uso_rituale": "F uso rituale generico 18"
+            },
+            {
+              "glifo": "F19",
+              "parola": "f_parola_19",
+              "tipo": "nome",
+              "significato": "F significato fittizio 19",
+              "uso_rituale": "F uso rituale generico 19"
+            },
+            {
+              "glifo": "F20",
+              "parola": "f_parola_20",
+              "tipo": "nome",
+              "significato": "F significato fittizio 20",
+              "uso_rituale": "F uso rituale generico 20"
+            },
+            {
+              "glifo": "F21",
+              "parola": "f_parola_21",
+              "tipo": "nome",
+              "significato": "F significato fittizio 21",
+              "uso_rituale": "F uso rituale generico 21"
+            },
+            {
+              "glifo": "F22",
+              "parola": "f_parola_22",
+              "tipo": "nome",
+              "significato": "F significato fittizio 22",
+              "uso_rituale": "F uso rituale generico 22"
+            },
+            {
+              "glifo": "F23",
+              "parola": "f_parola_23",
+              "tipo": "nome",
+              "significato": "F significato fittizio 23",
+              "uso_rituale": "F uso rituale generico 23"
+            },
+            {
+              "glifo": "F24",
+              "parola": "f_parola_24",
+              "tipo": "nome",
+              "significato": "F significato fittizio 24",
+              "uso_rituale": "F uso rituale generico 24"
+            },
+            {
+              "glifo": "F25",
+              "parola": "f_parola_25",
+              "tipo": "nome",
+              "significato": "F significato fittizio 25",
+              "uso_rituale": "F uso rituale generico 25"
+            },
+            {
+              "glifo": "F26",
+              "parola": "f_parola_26",
+              "tipo": "nome",
+              "significato": "F significato fittizio 26",
+              "uso_rituale": "F uso rituale generico 26"
+            },
+            {
+              "glifo": "F27",
+              "parola": "f_parola_27",
+              "tipo": "nome",
+              "significato": "F significato fittizio 27",
+              "uso_rituale": "F uso rituale generico 27"
+            },
+            {
+              "glifo": "F28",
+              "parola": "f_parola_28",
+              "tipo": "nome",
+              "significato": "F significato fittizio 28",
+              "uso_rituale": "F uso rituale generico 28"
+            },
+            {
+              "glifo": "F29",
+              "parola": "f_parola_29",
+              "tipo": "nome",
+              "significato": "F significato fittizio 29",
+              "uso_rituale": "F uso rituale generico 29"
+            },
+            {
+              "glifo": "F30",
+              "parola": "f_parola_30",
+              "tipo": "nome",
+              "significato": "F significato fittizio 30",
+              "uso_rituale": "F uso rituale generico 30"
+            },
+            {
+              "glifo": "F31",
+              "parola": "f_parola_31",
+              "tipo": "nome",
+              "significato": "F significato fittizio 31",
+              "uso_rituale": "F uso rituale generico 31"
+            },
+            {
+              "glifo": "F32",
+              "parola": "f_parola_32",
+              "tipo": "nome",
+              "significato": "F significato fittizio 32",
+              "uso_rituale": "F uso rituale generico 32"
+            },
+            {
+              "glifo": "F33",
+              "parola": "f_parola_33",
+              "tipo": "nome",
+              "significato": "F significato fittizio 33",
+              "uso_rituale": "F uso rituale generico 33"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "roadmap": {
+    "fase_0": {
+      "titolo": "Settimana Zero (Propedeutica Totale)",
+      "stato": "✅",
+      "cartella": "00_Setup_Propedeutico",
+      "contenuti": [
+        "Visione generale della saga",
+        "Decostruzione elementi classici",
+        "Origine infezione linguistica",
+        "Ruolo dei Risvegliati",
+        "Linguaggio come realtà"
+      ]
+    },
+    "fase_1": {
+      "titolo": "Struttura narrativa e linguistica",
+      "stato": "⚠️ 92% creativo / 0% operativo",
+      "cartella": "01_Struttura_Narrativa_Linguistica",
+      "blocchi": {
+        "1.1": "✅ Trama generale e atti",
+        "1.2": "✅ Archetipi e personaggi",
+        "1.3": "✅ Codex Lingua dei Risvegliati",
+        "1.4": "⚠️ Codex Lingua Innominata – Sezione IV completata",
+        "1.5": "⚠️ Costruzione Città Sigillate",
+        "1.6": "✅ Arche Foniche"
+      }
+    },
+    "fase_2": {
+      "titolo": "Tavole e Simboli",
+      "stato": "⚠️ 100% creativo / 0% operativo",
+      "cartella": "02_Glifi_Simboli_Tavole",
+      "blocchi": {
+        "2.1": "✅ 27 glifi generati",
+        "2.2": "✅ 3 gruppi mitici",
+        "2.3": "✅ Glifo–parola–concetto",
+        "2.4": "⚠️ Tavola Sinottica",
+        "2.5": "⚠️ Codex illustrato",
+        "2.6": "⚠️ SCEM integrazione"
+      }
+    },
+    "fase_3": {
+      "titolo": "Codici poetici e fonici",
+      "stato": "⚠️ 78% creativo / 0% operativo",
+      "cartella": "03_Poesia_Lingua_Rituali",
+      "blocchi": {
+        "3.1": "✅ Frasi triadiche",
+        "3.2": "✅ Stati atmosferici della lingua",
+        "3.3": "⚠️ Vocabolario poetico",
+        "3.4": "⚠️ Appendici sonore",
+        "3.5": "⚠️ Testi cantati/recitati"
+      }
+    },
+    "fase_4": {
+      "titolo": "Scene narrative e struttura Libro I",
+      "stato": "⚠️ 76% creativo / 0% operativo",
+      "cartella": "04_Scene_Libro_I",
+      "blocchi": {
+        "4.1": "✅ Outline 3 atti",
+        "4.2": "✅ Scene chiave con Arche",
+        "4.3": "⚠️ Frammenti linguistici",
+        "4.4": "✅ Scene nei Codex"
+      }
+    },
+    "fase_5": {
+      "titolo": "Materiali extra e spin-off",
+      "stato": "⚠️ 50% creativo / 0% operativo",
+      "cartella": "05_SpinOff_Materiali_Extra",
+      "blocchi": {
+        "5.1": "✅ Manifesto Educativo",
+        "5.2": "⚠️ Frammenti narrativi",
+        "5.3": "⬜ Mappe e geografie",
+        "5.4": "⬜ Artefatti narrativi"
+      }
+    },
+    "fase_6": {
+      "titolo": "Costruzione mondi e cronologie",
+      "stato": "⚠️ 71% creativo / 0% operativo",
+      "cartella": "06_Costruzione_Mondi",
+      "blocchi": {
+        "6.1": "✅ Blocchi narrativi",
+        "6.2": "✅ Personaggi chiave",
+        "6.3": "⚠️ Frammenti archeologici",
+        "6.4": "⚠️ Impianto trilogia",
+        "6.5": "⚠️ Forma/contenuto"
+      }
+    },
+    "fase_7": {
+      "titolo": "Editing e pubblicazione",
+      "stato": "⚠️ 34% creativo / 0% operativo",
+      "cartella": "07_Pubblicazione_Editing",
+      "blocchi": {
+        "7.1": "⚠️ Codex impaginato",
+        "7.2": "⚠️ Revisione scena/trilogia",
+        "7.3": "⬜ File stampa",
+        "7.4": "⬜ Marchio/Editore"
+      }
+    },
+    "fase_8": {
+      "titolo": "Marketing e diffusione",
+      "stato": "⚠️ 65% creativo / 0% operativo",
+      "cartella": "08_Marketing_Social_ARG",
+      "blocchi": {
+        "8.1": "✅ Post social narrativi",
+        "8.2": "⚠️ SCEM e calendario",
+        "8.3": "⚠️ Gioco della Frattura",
+        "8.4": "⚠️ Sito autore/landing"
+      },
+      "sottopunti": {
+        "8.1": "Post social narrativi (13 format approvati)",
+        "8.2": "Struttura Editoriale Multicanale (SCEM)",
+        "8.3": "Gioco della Frattura – ARG narrativo",
+        "8.4": "Sito autore – biografia, visione e accessi",
+        "8.5": "Sito del libro – landing, contenuti, preordine",
+        "8.6": "Strategia pre-hype, countdown, lancio"
+      }
+    },
+    "FASE_IV_Codex_Lingua_dei_Risvegliati": {
+      "stato": "in sviluppo testuale",
+      "note": "Completate Sezioni IV.1–IV.4 del Codex (testo). Parte simbolica ancora rimandata. Le sezioni trattano comunicazione non lineare, oscillazione semantica, frasi mute e strutture rituali."
+    },
+    "📘 FASE 4.5 – Costruzione delle Città Sigillate": {
+      "📂 Tipologie principali": [
+        "🔹 A. Città Isolate – Controllo totale, silenzio, implosione semantica",
+        "🔹 B. Città Corrotte – Linguaggio tossico, gerarchie foniche deviate",
+        "🔹 C. Città-Chiave – Sedi di Arche, accessi rituali, condotti respiranti",
+        "🔹 D. Città Oniriche – Esistono solo in linguaggio sognato, tempo instabile",
+        "🔹 E. Città Perdute – Archeologia fonica, memorie residue, accesso impossibile"
+      ],
+      "🧱 Schede per ogni città": [
+        "📍 Nome e identità semantica",
+        "🧭 Posizione e coordinate post-Collasso",
+        "🧬 Genesi e motivi della sigillatura",
+        "🧱 Architettura e materiali",
+        "🔊 Rete fonica interna",
+        "🕳️ Zone fratturate e aree proibite",
+        "📜 Registro narrativo di eventi e arche",
+        "🎭 Personaggi e presenze principali"
+      ],
+      "🛠️ Obiettivi creativi": [
+        "Creare almeno 5 città complete per il Libro I",
+        "Creare 1 città onirica e 1 città perduta",
+        "Completare la città di Kaleph come modello",
+        "Organizzare l’atlante narrativo delle città sigillate"
+      ],
+      "📘 ATLANTE NARRATIVO DELLE CITTÀ SIGILLATE": {
+        "📂 Struttura_Scheda_Città": {
+          "🏷️ Identità": [
+            "Nome",
+            "Tipo (Isolata / Corrotta / Chiave / Onirica / Perduta)",
+            "Codice Archivio"
+          ],
+          "🗺️ Geografia": [
+            "Coordinate (fittizie)",
+            "Clima narrativo",
+            "Accessibilità"
+          ],
+          "🧬 Genesi": [
+            "Motivo della sigillatura",
+            "Evento scatenante",
+            "Ruolo nella Storia"
+          ],
+          "🧱 Struttura e Architettura": [
+            "Materiali usati",
+            "Topografia interna",
+            "Elementi rituali"
+          ],
+          "🔊 Comunicazione Interna": [
+            "Lingua dominante",
+            "Sistema fonico",
+            "Frasi rituali"
+          ],
+          "🕳️ Zone Fratturate": [
+            "Aree instabili",
+            "Pericoli fonici",
+            "Presenze residuali"
+          ],
+          "🧑‍🤝‍🧑 Personaggi e Clan": [
+            "Protagonisti collegati",
+            "Clan linguistici",
+            "Entità presenti"
+          ],
+          "📜 Registro Narrativo": [
+            "Eventi storici",
+            "Testi ritrovati",
+            "Stato attuale"
+          ],
+          "🔁 Connessioni": [
+            "Collegamenti con altre città",
+            "Percorsi fonici o simbolici"
+          ]
+        },
+        "K-E4-01_Kaleph": {
+          "🏷️ Identità": {
+            "Nome": "Kaleph",
+            "Tipo": "Città-Chiave",
+            "Codice Archivio": "K-E4-01",
+            "Descrizione": "Prima città dove si è attivata un’Arca. La sua struttura linguistica era ancora parzialmente sana prima della Frattura Totale."
+          },
+          "🗺️ Geografia": {
+            "Coordinate": "Settore E4 della zona subfonica orientale",
+            "Clima narrativo": "Giallastro, asciutto, vibrazionale. L’aria sembra trasportare echi di parole pronunciate decenni fa.",
+            "Accessibilità": "solo tramite la Frattura del Nodo. Tutti gli altri accessi sono sigillati per eco inversa."
+          },
+          "🧬 Genesi": {
+            "Motivo della sigillatura": "Rischio di propagazione semantica instabile a causa dell’Arca del Nodo",
+            "Evento scatenante": "Attivazione dell’Arca da parte di Lerén",
+            "Ruolo nella storia": "Segna l’inizio della crisi linguistica moderna. Primo centro urbano a vedere un risvegliato piegare l’aria."
+          },
+          "🧱 Struttura e Architettura": {
+            "Materiali": "Silicio ritmico, mattoni vocalici, vetro fonico",
+            "Topografia interna": [
+              "Quartieri a spirale linguistica (es. Spirale Sud)",
+              "Archivio Fonometrico Mobile",
+              "Camere Echo-blindate"
+            ],
+            "Elementi rituali": [
+              "Condotti di Respirazione Comune",
+              "Vasche di Ascolto Mutuo",
+              "Altare dell’Accordo Non Pronunciato"
+            ]
+          },
+          "🔊 Comunicazione Interna": {
+            "Lingua dominante": "Artefice primaria con frammenti di Lingua Innominata",
+            "Sistema fonico": [
+              "Rete semi-silenziosa con sequenze codificate",
+              "Membrature vocali nei muri"
+            ],
+            "Frasi rituali": [
+              "Non ti parlo, ti ascolto fino a piegarti.",
+              "Solo l’eco sa chi mente."
+            ]
+          },
+          "🕳️ Zone Fratturate": {
+            "Aree instabili": [
+              "Cratere Semantico (ex Piazzale del Nodo)",
+              "Galleria 9 – emette fonemi in loop"
+            ],
+            "Pericoli": [
+              "Ecolalie croniche",
+              "Rotture vocali spontanee"
+            ],
+            "Presenze": [
+              "Archivista Cieca",
+              "Residuo parlante: 'Io sono ciò che manca'"
+            ]
+          },
+          "🧑‍🤝‍🧑 Personaggi e Clan": {
+            "Protagonisti collegati": [
+              "Lerén",
+              "Archivista Cieca"
+            ],
+            "Clan linguistici": [
+              "Conservatori dell’Accordo",
+              "Devoti del Sussurro Puro"
+            ],
+            "Entità": [
+              "Custode delle Frasi Perdute",
+              "Due gemelli che parlano a turno ma non insieme"
+            ]
+          },
+          "📜 Registro Narrativo": {
+            "Eventi storici": [
+              "Attivazione dell’Arca",
+              "Prima piegatura dell’aria",
+              "Fuga dei Clan Non Allineati"
+            ],
+            "Testi ritrovati": [
+              "Trascrizioni Oscillanti (vol. 1)",
+              "Risonanze dalle Mura (audio corrotti)"
+            ],
+            "Stato attuale": "In accesso controllato, stabile ma contaminata"
+          },
+          "🔁 Connessioni": {
+            "Collegamenti": [
+              "A Lonen (tramite il Condotto del Gesto Non Compiuto)",
+              "A Murei (solo attraverso trasmissione onirica)"
+            ],
+            "Percorsi fonici": [
+              "Linea Respiratoria K4 – attivabile solo in silenzio",
+              "Frattura Secondaria E4Δ – collegata alla Vibrazione Piena"
+            ]
+          }
+        },
+        "M-B2-07_Murei": {
+          "🏷️ Identità": {
+            "Nome": "Murei",
+            "Tipo": "Città Corrotta",
+            "Codice Archivio": "M-B2-07",
+            "Descrizione": "Ex centro di rieducazione fonica, oggi città dove il linguaggio implode. Nessuna parola ha significato stabile."
+          },
+          "🗺️ Geografia": {
+            "Coordinate": "Settore B2, altopiano uditivo centrale",
+            "Clima narrativo": "Oscuro, nebbioso, tonale. Le parole si distorcono mentre vengono emesse.",
+            "Accessibilità": "Solo tramite sogno condiviso o attraverso il Corridoio del Tremore Ritmico."
+          },
+          "🧬 Genesi": {
+            "Motivo della sigillatura": "Fallimento del Programma di Unificazione Semantica",
+            "Evento scatenante": "Scissione collettiva del significato durante un’assemblea pubblica",
+            "Ruolo nella storia": "Città test per il controllo assoluto del linguaggio, ora frammento malato del mondo sigillato."
+          },
+          "🧱 Struttura e Architettura": {
+            "Materiali": "Pietra semantica instabile, intonaco fonoriflettente, tendini lessicali",
+            "Topografia interna": [
+              "Piazza dell’Interferenza",
+              "Gole di Risonanza",
+              "Sale dell’Eco Contraddittoria"
+            ],
+            "Elementi rituali": [
+              "Cerchi di Dissenso",
+              "Altoparlanti spezzati",
+              "Specchi che distorcono il parlato"
+            ]
+          },
+          "🔊 Comunicazione Interna": {
+            "Lingua dominante": "Frammenti corrotti di lingue artefici",
+            "Sistema fonico": [
+              "Nessun suono è ripetibile senza alterazioni",
+              "L’ascolto prolungato distorce il senso"
+            ],
+            "Frasi rituali": [
+              "Dillo finché non si spezzi.",
+              "Il senso è ciò che resta dopo la vergogna."
+            ]
+          },
+          "🕳️ Zone Fratturate": {
+            "Aree instabili": [
+              "Cripta delle Traduzioni Inverse",
+              "Via Semantica 0"
+            ],
+            "Pericoli": [
+              "Amnesia fonica",
+              "Identità verbale multipla"
+            ],
+            "Presenze": [
+              "Lo Spaccalingua",
+              "L’Ascoltatrice Involontaria"
+            ]
+          },
+          "🧑‍🤝‍🧑 Personaggi e Clan": {
+            "Protagonisti collegati": [
+              "Véra",
+              "Asind"
+            ],
+            "Clan linguistici": [
+              "Ricostruttori del Senso",
+              "Echi della Prima Voce"
+            ],
+            "Entità": [
+              "La Bocca Doppia",
+              "I Cinque Volti di Murei"
+            ]
+          },
+          "📜 Registro Narrativo": {
+            "Eventi storici": [
+              "Implosione dell’Assemblea delle Frasi",
+              "Invasione di frasi non firmate",
+              "Cancellazione del Canone Uditivo"
+            ],
+            "Testi ritrovati": [
+              "Glossario Mutante",
+              "Diari della Bocca Doppia"
+            ],
+            "Stato attuale": "Inaccessibile alla mente lineare, visitabile solo da chi ha già perso almeno una lingua"
+          },
+          "🔁 Connessioni": {
+            "Collegamenti": [
+              "A Kaleph (tramite trasmissione onirica inversa)",
+              "A Belen (tramite Circuito di Contraddizione)"
+            ],
+            "Percorsi fonici": [
+              "Flusso Oppositivo M1",
+              "Traccia della Vergogna Accresciuta"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "calendario_produzione": {
+    "settimana_1": "Espansione Codex – Sezione V (Vocabolario completo)",
+    "settimana_2": "Creazione Tavole Visive – Sezione VI (Glifi + layout)",
+    "settimana_3": "Scene Arche – Libro I: Arca del Nodo, Archivista Cieca",
+    "settimana_4": "Preparazione Codex illustrato completo (Sez. I–VI)",
+    "settimana_5": "Stesura scene 2–3 – Primo risveglio e prima Frattura",
+    "settimana_6": "Impaginazione Tavole narrative: Arche + Simboli",
+    "settimana_7": "Lingua Sognata – Sezione VII: Estensioni rituali",
+    "settimana_8": "Scene Archivio Errante – Libro I, sequenza 4–5",
+    "settimana_9": "Finale Atto I – crisi semantica di Kaleph",
+    "settimana_10": "Sezione VIII – Appendici simboliche del Codex",
+    "settimana_11": "Creazione frasi rituali e tavole triadiche",
+    "settimana_12": "Finalizzazione simboli + loghi narrativi",
+    "settimana_13": "Preparazione marketing narrativo: social 0,00001%",
+    "settimana_14": "Stesura scene Atto II – viaggio fonico",
+    "settimana_15": "Implementazione Gioco della Frattura – Parte 1",
+    "settimana_16": "Sviluppo schede personaggi e artefatti narrativi",
+    "settimana_17": "Revisione Codex completo per impaginazione",
+    "settimana_18": "Creazione video/clip marketing sonoro e visuale",
+    "settimana_19": "Test materiali bonus (file narrativi, carte, loghi)",
+    "settimana_20": "Stesura scene Atto III – convergenza risvegliati",
+    "settimana_21": "Attivazione Arche Oniriche e frammenti visivi",
+    "settimana_22": "Impaginazione definitiva romanzo + Codex",
+    "settimana_23": "Pre-lancio: sito autore + countdown + trailer",
+    "settimana_24": "Revisione creativa e correzione trilogia",
+    "settimana_25": "Attivazione Gioco della Frattura – Parte 2",
+    "settimana_26": "Preordine e diffusione: stampa e canali",
+    "settimana_27": "Backup, archiviazione, validazione contenuti",
+    "settimana_28": "Pubblicazione ufficiale libro I + Codex + ARG",
+    "2025-06-03": "Espansione completa sezioni IV.1–IV.4 del Codex Lingua dei Risvegliati (testuali). Simboli esclusi."
+  },
+  "sito_autore": {
+    "titolo": "Sito Autore – Francesco [nom de plume in definizione]",
+    "sezioni": {
+      "chi_sono": "Testo approvato – visione educativa e indipendenza creativa",
+      "progetto_india": "Futuro orfanotrofio con polo di formazione d’eccellenza",
+      "dietro_le_quinte": "Processo creativo, uso dell’AI, nascita della saga",
+      "link_universo": "Collegamento a Città Sigillate, Codex, ARG, canali social"
+    },
+    "note": "Design essenziale, evocativo, professionale; dominio personale"
+  },
+  "sito_libro": {
+    "titolo": "Landing ufficiale – Città Sigillate",
+    "sezioni": {
+      "home": "Presentazione universo narrativo e trilogia",
+      "codex_interattivo": "Estratti del Codex, simboli, glossario visivo",
+      "trailer_clip": "Video, audio rituali, teaser",
+      "gioco_della_frattura": "Accesso al percorso ARG con indizi nascosti",
+      "risorse_download": "PDF, simboli, mappe, Codex",
+      "preordine_newsletter": "Modulo preordine, lista interessati"
+    },
+    "note": "Grafica immersiva; legame visivo con Codex e simboli della saga"
+  },
+  "note": "⚠️ Parte simbolica tralasciata per ora. Procedere con la costruzione delle città sigillate.",
+  "calendario": {
+    "FASE 0 – Settimana Zero": {
+      "inizio": "2025-06-01",
+      "fine": "2025-06-07"
+    },
+    "FASE I – Preparazione Strutturata": {
+      "inizio": "2025-06-08",
+      "fine": "2025-06-21"
+    },
+    "FASE II – Codici e Sistemi Linguistici": {
+      "inizio": "2025-06-22",
+      "fine": "2025-07-12"
+    },
+    "FASE III – Costruzione Mondo e Arche Foniche": {
+      "inizio": "2025-07-13",
+      "fine": "2025-08-02"
+    },
+    "FASE IV – Stesura Codex e Trama": {
+      "inizio": "2025-08-03",
+      "fine": "2025-09-01"
+    },
+    "📘 FASE 4.5 – Costruzione delle Città Sigillate": {
+      "inizio": "2025-09-02",
+      "fine": "2025-09-29"
+    },
+    "FASE V – Stesura Romanzo": {
+      "inizio": "2025-09-30",
+      "fine": "2025-11-13"
+    },
+    "FASE VI – Produzione Editoriale": {
+      "inizio": "2025-11-14",
+      "fine": "2025-12-04"
+    },
+    "FASE VII – Marketing e Pubblicazione": {
+      "inizio": "2025-12-05",
+      "fine": "2026-01-03"
+    }
+  },
+  "priorita": {
+    "01 - Linguaggi e Codex": [
+      "Completamento Codex Lingua dei Risvegliati (livelli, esempi, rituali)",
+      "Completamento Lingua Innominata (frasi triadiche, simboli associati)",
+      "Sviluppo dei frammenti narrativi liturgici",
+      "Inserimento e definizione completa dei Risvegliati",
+      "Chiusura simbolica temporanea (simboli → fase VI)"
+    ],
+    "02 - Filosofia e Mito": [
+      "Completare mitologia della Frattura",
+      "Definire struttura cosmologica e concetti di verità non lineari",
+      "Creare collegamento tra archetipi e linguaggio"
+    ],
+    "03 - Ambienti e Città": [
+      "Chiusura delle schede città (Kaleph completa, Murei 70%, altre abbozzate)",
+      "Attivazione ambienti rituali (Orfanotrofio, Archivio Fonometrico)",
+      "Inserimento simboli cittadini solo se già approvati in bozza"
+    ],
+    "04 - Arche e Scene Attivanti": [
+      "Completare le 12 Arche",
+      "Collegare ogni Arca a scena, frase e glifo",
+      "Iniziare le prime scene narrative attivanti (es. Arca del Nodo, Lerén)"
+    ],
+    "05 - Struttura Narrativa": [
+      "3 atti, 12 sequenze",
+      "Schede personaggi principali",
+      "Codex narrativo interno (linee guida per la scrittura)"
+    ],
+    "06 - Finalizzazione Simbolica": [
+      "Tutti i glifi definitivi",
+      "Tavole visuali",
+      "Impaginazione materiali rituali"
+    ]
+  },
+  "codex": {
+    "lingua_risvegliati": {
+      "livelli": [
+        {
+          "nome": "Sussurro del Respiro",
+          "descrizione": "Il primo livello manifesto della Lingua dei Risvegliati. Non è propriamente parlato, ma si trasmette attraverso l’aria che scivola appena sulle corde vocali. È una vibrazione minima, percepibile solo da chi ascolta con tutto il corpo. Si manifesta durante il risveglio, nei momenti liminari tra sogno e presenza. Non pretende di essere compreso: esiste e basta.",
+          "segnali": [
+            "Lieve variazione della temperatura dell’aria attorno al parlante",
+            "Brividi involontari in chi ascolta",
+            "Respiro sincronizzato tra parlante e ascoltatore",
+            "Oscillazione involontaria degli oggetti leggeri (foglie, carta)"
+          ],
+          "uso_rituale": [
+            "Per iniziare una comunicazione profonda tra Risvegliati",
+            "Durante i momenti di ascolto collettivo nei Rifugi d’Aria",
+            "All’interno di riti di trasmissione spirituale senza parole"
+          ],
+          "esempio_narrativo": "Lerén sedeva accanto alla parete forata del rifugio. Una donna, che non parlava da giorni, si avvicinò. Non mosse le labbra. Solo il suo respiro tremò una volta, poi ancora. Lerén lo sentì dentro, come se fosse il suo.",
+          "frase_rituale": {
+            "testo": "Huúm... saǝl... húuǝm...",
+            "note": "Ripetuta tre volte, con respiro che si espande e si richiude. Significato oscillante: Io sono. Tu ascolti. Noi esistiamo."
+          }
+        },
+        {
+          "nome": "Tremore del Silenzio",
+          "descrizione": "Il Tremore del Silenzio non si sente: si intuisce. È il linguaggio che si esprime negando la parola, facendo tremare l’attesa. Un Risvegliato usa questo livello per indicare l’assenza come presenza. Non ci sono suoni, ma chi ascolta sente un messaggio chiaro, come se il mondo stesso smettesse di fare rumore per un istante. Si manifesta spesso dopo uno shock o durante una rivelazione.",
+          "segnali": [
+            "Interruzione improvvisa del suono ambientale",
+            "Animali o persone intorno si fermano",
+            "Un singolo battito del cuore percepito da più persone",
+            "Sensazione di “eco” prima ancora che qualcosa venga detto"
+          ],
+          "uso_rituale": [
+            "Rito della sospensione: usato prima di una decisione collettiva",
+            "Nei luoghi di frattura sonora, dove il linguaggio collassa",
+            "Come giuramento silenzioso tra Risvegliati"
+          ],
+          "esempio_narrativo": "La giovane Aremi salì sulle pietre del vuoto fonico. Attorno a lei il canto si interruppe. Nessuno parlava. Nessuno si muoveva. Ma qualcosa, nella sua immobilità, parlava a tutti.",
+          "frase_rituale": {
+            "testo": "*nessun suono pronunciato; tre gesti della mano sinistra, poi chiusura degli occhi*",
+            "note": "Significato: Nessuna parola ti salverà. Solo la tua assenza può parlarmi."
+          }
+        },
+        {
+          "nome": "Gesto che Ricorda",
+          "descrizione": "Il Gesto che Ricorda è il primo livello corporeo visibile della Lingua. Non nasce dalla voce, ma dalla memoria impressa nel corpo. Un Risvegliato non decide il gesto: lo manifesta, come se fosse inciso nella sua carne. Sono movimenti semplici, spesso tremolanti, che però risvegliano memorie collettive, archetipi sepolti, o fanno vibrare un ricordo dimenticato in chi guarda.",
+          "segnali": [
+            "Ripetizione inconsapevole di un gesto antico (tocco, offerta, piega del polso)",
+            "Reazioni emotive forti in chi assiste (pianto, risata, silenzio interiore)",
+            "Armonizzazione spontanea tra più corpi nella stessa sequenza gestuale",
+            "Presenza del gesto in sogni precedenti"
+          ],
+          "uso_rituale": [
+            "Riti commemorativi o trasmissioni senza parole",
+            "Accesso alle Arche Oniriche, quando si tenta di ricordare linguaggi perduti",
+            "Insegnamento silenzioso tra Anziani Risvegliati e bambini"
+          ],
+          "esempio_narrativo": "Il piccolo Iren sollevò il braccio, lentamente. La sua mano disegnò un arco, poi si fermò. Gli anziani si inginocchiarono. Nessuno gli aveva insegnato quel gesto. Ma tutti ricordavano.",
+          "frase_rituale": {
+            "testo": "Braccio destro in avanti, palmo verso il basso → rotazione lenta → chiusura a pugno → mani al cuore",
+            "note": "Significato: Ciò che era non è perduto. Mi abita ancora."
+          }
+        },
+        {
+          "nome": "Parola Non Udibile",
+          "descrizione": "La Parola Non Udibile viene pronunciata, ma non si sente. È un suono che attraversa il mondo senza vibrare l’aria, eppure produce effetti tangibili. Spesso lascia in chi ascolta la sensazione di aver sentito qualcosa senza poterlo ripetere. È il linguaggio che si imprime nell’inconscio, che cambia chi lo riceve. Chi la pronuncia entra in uno stato di alterazione percettiva, quasi come se la voce appartenesse a un altro tempo.",
+          "segnali": [
+            "Sussulti corporei senza causa apparente in chi ascolta",
+            "Lacrime spontanee o stato di quiete profonda",
+            "Alterazioni ambientali minime (vibrazione di superfici lisce, luce che sembra pulsare)",
+            "Amnesia parziale su ciò che è stato detto"
+          ],
+          "uso_rituale": [
+            "Iniziazioni, passaggi tra stati di coscienza, riti di trasmissione di Arche Foniche",
+            "Atti di protezione estrema (la Parola che sigilla o respinge)",
+            "Quando è necessario “dire senza dire”, trasmettere verità segrete"
+          ],
+          "esempio_narrativo": "Lerén si voltò. Pronunciò una parola senza aprire bocca. L’acqua nella ciotola vibrò. Il nemico si inginocchiò. Eppure nessuno tra i presenti seppe mai ripeterla.",
+          "frase_rituale": {
+            "testo": "Labbra chiuse, vibrazione interna del petto, seguita da espirazione controllata",
+            "note": "Significato: Ti dico ciò che non puoi udire, ma che non potrai mai dimenticare."
+          }
+        },
+        {
+          "nome": "Vibrazione Piena",
+          "descrizione": "La Vibrazione Piena è l’ultimo stadio della Lingua dei Risvegliati. Non è un suono, né un gesto, né un’assenza: è tutto insieme. Quando si manifesta, la realtà sembra entrare in risonanza con chi la pronuncia. Il corpo, il respiro, l’intenzione e l’ambiente vibrano all’unisono. È un atto raro, spesso irreversibile, che può cambiare la coscienza di chi ascolta. Non viene insegnato: emerge quando il linguaggio si compie da sé.",
+          "segnali": [
+            "Armonizzazione tra più livelli: parola, gesto, silenzio e respiro si fondono",
+            "Persone e oggetti entrano in uno stato di sospensione vibrante",
+            "Fenomeni ambientali spontanei (luce, vento, tremore del suolo)",
+            "Gli ascoltatori possono entrare in uno stato di trance condivisa"
+          ],
+          "uso_rituale": [
+            "Riti estremi di trasmissione (es. passaggio tra vita e morte)",
+            "Attivazione delle Arche Chiave",
+            "Fine o inizio di un ciclo narrativo/rituale"
+          ],
+          "esempio_narrativo": "La Risvegliata avanzò nel cerchio. Ogni passo un’onda, ogni gesto un’eco. Pronunciò senza parlare, danzò senza muoversi. La città tremò. La Frattura si aprì.",
+          "frase_rituale": {
+            "testo": "Respiro pieno – mani aperte verso il cielo – voce sommessa in risonanza con il suolo – sguardo al centro del cerchio",
+            "note": "Significato: Io sono ciò che ricorda. E ciò che dimentica. E ciò che vibra."
+          }
+        }
+      ]
+    }
+  },
+  "scenes_planned": [
+    {
+      "id": "scene2",
+      "title": "Il primo Risveglio Fratturato",
+      "status": "planned",
+      "symbol_placeholder": "☰",
+      "location": "Kaleph – zona est",
+      "summary": "Prime conseguenze della Frattura. Comunicazione alterata, personaggi secondari percepiscono il mutamento.",
+      "linked_to": "scene1"
+    },
+    {
+      "id": "scene3",
+      "title": "L’Archivista Cieca",
+      "status": "planned",
+      "symbol_placeholder": "ʘ",
+      "location": "Settore degli Archivi Crollati",
+      "summary": "Lerén incontra una guida enigmatica. Viene avvertito di ciò che lo attende.",
+      "linked_to": "scene2"
+    },
+    {
+      "id": "scene4",
+      "title": "Il Segno Muto",
+      "status": "planned",
+      "symbol_placeholder": "⦓",
+      "location": "Altopiano Centrale – Cupola",
+      "summary": "Un simbolo compare nel cielo. La popolazione inizia a percepire il cambiamento.",
+      "linked_to": "scene3"
+    },
+    {
+      "id": "scene5",
+      "title": "La Trasmissione",
+      "status": "planned",
+      "symbol_placeholder": "∅",
+      "location": "Intercapedine della Città Sigillata",
+      "summary": "Una bambina comunica senza parole. La Lingua Innominata si manifesta.",
+      "linked_to": "scene4"
+    }
+  ],
+  "symbol_map": [
+    {
+      "symbol": "⟁",
+      "name": "Nodo",
+      "used_in": [
+        "scene1"
+      ],
+      "type": "Frattura"
+    },
+    {
+      "symbol": "☰",
+      "name": "Risveglio",
+      "used_in": [
+        "scene2"
+      ],
+      "type": "Atmosferico"
+    },
+    {
+      "symbol": "ʘ",
+      "name": "Guida",
+      "used_in": [
+        "scene3"
+      ],
+      "type": "Onirico"
+    },
+    {
+      "symbol": "⦓",
+      "name": "Silenzio",
+      "used_in": [
+        "scene4"
+      ],
+      "type": "Visivo"
+    },
+    {
+      "symbol": "∅",
+      "name": "Trasmissione Vuota",
+      "used_in": [
+        "scene5"
+      ],
+      "type": "Rituale"
+    }
+  ],
+  "graphic_assets": {
+    "tavola_simboli_livelli": {
+      "status": "ottimizzata",
+      "notes": "In attesa di separazione simboli da parte nostra",
+      "use": [
+        "Codex",
+        "Romanzo"
+      ]
+    },
+    "tavola_texture_atmosferiche": {
+      "status": "ottimizzata",
+      "notes": "Pronta per separazione interna e uso simbolico"
+    }
+  },
+  "tasks_graphics": {
+    "tavola_5_livelli": "completata",
+    "tavola_texture": "completata",
+    "simboli_separati": "da fare",
+    "glifi_finalizzati": "completato"
+  },
+  "scenes_written": [
+    {
+      "scene_id": "scene2",
+      "title": "Il Primo Risveglio Fratturato",
+      "location": "Kaleph – zona est",
+      "symbol_placeholder": "☰",
+      "characters": [
+        "Nael",
+        "Apprendisti"
+      ],
+      "linked_to": "scene1",
+      "glossary_tags": [
+        "Frattura",
+        "Linguaggio Instabile",
+        "Percezione",
+        "Segnali"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Apprendista",
+          "line": "Io… non riesco a dire 'interfaccia'. Mi esce 'entreluce'."
+        },
+        {
+          "speaker": "Apprendista 2",
+          "line": "Non è una parola autorizzata."
+        },
+        {
+          "speaker": "Nael",
+          "line": "È dentro l’aria."
+        }
+      ],
+      "narrative": "La sera scende lenta su Kaleph. Alcuni ragazzi scoprono che le parole si deformano. Nael percepisce un segnale non scritto, vibrazionale. Segue una trascrizione misteriosa. È il primo Risveglio Fratturato.",
+      "notes": "Inserire simbolo ☰ come glifo visivo. La parola 'entreluce' può essere evidenziata come 'non autorizzata'. Diario di Nael da usare in marketing (scansione digitale)."
+    },
+    {
+      "scene_id": "SCENA_3",
+      "title": "La Voce Non Autorizzata",
+      "location": "Kaleph – Centro di trascrizione vocale (settore E3)",
+      "linked_to": "SCENA_2",
+      "symbol": "⟁",
+      "characters": [
+        "Nael",
+        "Supervisore Metrico",
+        "Voce Interferente",
+        "Archivista cieca (menzionata)"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Supervisore Metrico",
+          "line": "Chi ha aperto questo canale?"
+        },
+        {
+          "speaker": "Voce Interferente",
+          "line": "Non può essere rinchiusa. La parola respira."
+        },
+        {
+          "speaker": "Supervisore Metrico",
+          "line": "Questa trasmissione non è autorizzata! Ripristinate il silenzio operativo!"
+        },
+        {
+          "speaker": "Nael",
+          "line": "Non è stata trasmessa. È emersa."
+        }
+      ],
+      "narrative": "Il settore E3 del Centro di Trascrizione era protetto da pareti fonoassorbenti e pattugliato da tre livelli di autorizzazione fonica. Ogni parola emessa doveva essere registrata, ogni frase metricamente certificata. Il silenzio non era assenza, era protocollo. Nael si trovava in visita con un piccolo gruppo. Aveva ottenuto un permesso temporaneo, ma non sapeva bene perché. Una sorta di curiosità interna, forse. Nel mezzo del briefing tecnico, un segnale acustico interruppe le schermate. Un canale si aprì da solo. Il terminale non era alimentato. Nessun ID. Nessun codice. Solo una voce:\n\n«Non può essere rinchiusa. La parola respira.»\n\nIl supervisore urlò, i controllori si mossero. Ma la voce era già scomparsa.\n\nNael, rimasto immobile, guardava il punto esatto dove il simbolo ⟁ cominciava ad apparire a intermittenza sul monitor primario. Non era parte del codice.\n\n«Non è stata trasmessa. È emersa.»",
+      "notes": [
+        "Simbolo ⟁ da visualizzare lampeggiante o con alone instabile.",
+        "Voce Interferente ideale per audio virale marketing.",
+        "Citazione chiave 'La parola respira'.",
+        "Prima menzione dell’Archivista cieca.",
+        "Colore dominante: grigio oscillante – simbolo della trasparenza instabile."
+      ]
+    },
+    {
+      "scene_id": "SCENA_4",
+      "title": "Il Gesto Sospeso",
+      "location": "Kaleph – Interstizio tra due settori (D4 e D5), area di accesso tecnico abbandonata",
+      "linked_to": "SCENA_3",
+      "symbol": "✋",
+      "characters": [
+        "Nael",
+        "Lerén",
+        "Guardia di sorveglianza"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Lerén",
+          "line": "Non l’ho imparato. L’ho ricordato."
+        },
+        {
+          "speaker": "Nael",
+          "line": "(senza parlare, piegando appena il polso)"
+        }
+      ],
+      "narrative": "Lo spazio tra i settori D4 e D5 era un non-luogo. Non era più usato da anni, nessuna mappa lo segnalava. Era qui che Nael si rifugiava dopo le anomalie. Ogni volta che sentiva l’aria vibrare con parole che non erano sue. Quel giorno, Nael non parlò. Sollevò una mano. La curvò in un modo innaturale, come a trattenere qualcosa tra pollice e mignolo. Poi attese. Lerén, che lo seguiva da giorni, vide quel gesto. E, senza sapere come, lo replicò. Nel silenzio assoluto, qualcosa si dischiuse. Non un suono, ma una variazione nel peso dell’aria. Una presenza si delineò ai margini del tunnel. Una guardia passò a pochi metri. Non vide nulla. «Non l’ho imparato. L’ho ricordato.» – disse Lerén. Nael annuì. E, con lo stesso movimento, lo cancellò.",
+      "notes": [
+        "✋ Gesto da disegnare come simbolo codificato, ispirato a una piegatura rituale della mano.",
+        "Primo uso del linguaggio gestuale dei Risvegliati, da collegare alla Sezione 'Gesti che Ricordano'.",
+        "Scena da accompagnare da un'illustrazione o still frame: mano in ombra, aria increspata.",
+        "Introduce presenza non visibile – potenziale Arca o soglia percettiva (da riprendere più avanti).",
+        "Possibile clip per social media: gesto + frase silenziosa."
+      ]
+    },
+    {
+      "scene_id": "SCENA_5",
+      "title": "Frattura nel Nodo",
+      "location": "Kaleph – Archivio Fonometrico Mobile, Settore E4",
+      "linked_to": [
+        "SCENA_1",
+        "SCENA_3",
+        "SCENA_4"
+      ],
+      "symbol": "🧠",
+      "characters": [
+        "Lerén",
+        "Direttore dell’Archivio",
+        "Voce interna del sistema",
+        "Altri ricercatori"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Voce interna",
+          "line": "...accesso... negato... parola non... parola non..."
+        },
+        {
+          "speaker": "Lerén",
+          "line": "Ascolta. Non analizzare. Ascolta."
+        }
+      ],
+      "narrative": "Nel Settore E4, ogni emissione vocale era convertita in vettori fonometrici, analizzata in tempo reale, ridotta a pattern. Le parole non erano più parole: erano dati compressi, sezionati, sterilizzati. Ma quel giorno, qualcosa non funzionò. L’Arca – nascosta dietro una paratia traslucida, dormiente da decenni – si attivò. Nessun allarme. Solo silenzio. Poi: \"Accesso... negato... parola non... parola non...\" Il software si inceppò. Le frasi cominciarono a ripetersi su se stesse, perdere significato, generare eco distorte. I ricercatori provarono a spegnere tutto. Ma le loro voci venivano assorbite, tradotte, invertite. Lerén avanzò. Non disse nulla. Inspirò profondamente. Aprì la bocca. Non uscì alcun suono. Ma l’aria si piegò. La superficie dell’Arca si incrinò. Una crepa sottile come un capello la attraversò da parte a parte. Una mappa fonica cominciò a proiettarsi nella sala, senza fonte visibile. \"Ascolta. Non analizzare. Ascolta.\" – disse Lerén. Il Direttore dell’Archivio si inginocchiò, mentre gli schermi esplodevano di simboli privi di sintassi.",
+      "notes": [
+        "🧠 Simbolo dell’Arca del Nodo: glifo astratto da usare in modo dominante.",
+        "Scena da visualizzare con crepa che si propaga e simboli fluttuanti nello spazio.",
+        "Punto di svolta: attivazione pubblica e incontrollata dell’Arca.",
+        "Prima inversione linguistica collettiva (materiale per social/audio glitch/animazione)."
+      ]
+    },
+    {
+      "scene_id": "SCENA_6",
+      "title": "L’Archivista Cieca",
+      "location": "Kaleph – Corridoio interrotto dietro il Settore E5, area declassificata",
+      "linked_to": [
+        "SCENA_5",
+        "SCENA_2"
+      ],
+      "symbol": "📜",
+      "characters": [
+        "Archivista Cieca",
+        "Lerén",
+        "Sistema luci"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Archivista",
+          "line": "Ci sono parole che non servono ad altro che a custodire il silenzio."
+        },
+        {
+          "speaker": "Lerén",
+          "line": "Chi sei?"
+        },
+        {
+          "speaker": "Archivista",
+          "line": "Sono colei che trascrive ciò che non è mai stato detto."
+        }
+      ],
+      "narrative": "Dopo la Frattura, Lerén fu condotto fuori da un passaggio secondario, guidato solo da luci intermittenti. La città sembrava non accorgersi di quanto era appena accaduto. Nessuna comunicazione ufficiale. Nessuna reazione. Il corridoio terminava nel vuoto. O almeno così pareva. Quando le luci si spensero completamente, una voce si udì – non da un altoparlante, ma dallo spazio stesso. \"Ci sono parole che non servono ad altro che a custodire il silenzio.\" Lerén non capiva. Il suo corpo rispondeva alla voce prima della mente. Fece un passo avanti. Non c’era pavimento. Eppure camminava. Dal buio emerse una figura in nero, senza occhi visibili, con dita segnate da inchiostro e memoria. \"Chi sei?\" – domandò Lerén. La donna sollevò una pergamena invisibile. Non parlava. Lasciava che il silenzio si dicesse da solo. Poi: \"Sono colei che trascrive ciò che non è mai stato detto.\" Dietro di lei, un archivio fatto di respiro e luce cominciò a ordinarsi. Ogni passo di Lerén ne modificava l’assetto. Non c’era più un centro. Solo accesso.",
+      "notes": [
+        "📜 Simbolo dell’Archivista da sostituire con glifo specifico (simile a nodo sigillato).",
+        "Visualizzazione con luci dinamiche, nebbia e archivio di luce mutevole.",
+        "Frasi chiave: «Trascrivere ciò che non è stato detto.» – «Il silenzio ha un archivio.»",
+        "Voce dell’Archivista: toni profondi, asessuati, fuori scala."
+      ]
+    },
+    {
+      "scene_id": "SCENA_7",
+      "title": "Il Primo Ascolto",
+      "location": "Refettorio dismesso sotto Kaleph, accessibile solo attraverso un’antica grata sonora",
+      "linked_to": [
+        "SCENA_6",
+        "SCENA_1"
+      ],
+      "symbol": "🜄",
+      "characters": [
+        "Lerén",
+        "Archivista Cieca",
+        "Corpo corale di voci"
+      ],
+      "dialogue": [],
+      "narrative": "La grata cede solo se si respira con il giusto ritmo. Lerén non ne è consapevole, ma il suo passo ha già imparato una nuova frequenza. La voce dell’Archivista non lo guida. Lo precede.\n\nScendono lungo un cunicolo affondato nell’antico osso della città. Il refettorio è vuoto. Ma riempito di suoni. Suoni che non si possono registrare. Non perché siano troppo deboli, ma perché non vogliono.\n\nLerén si siede, come aveva imparato a fare nell’orfanotrofio – ginocchia piegate, occhi socchiusi. Davanti a lui, una serie di linee sul pavimento si intrecciano. Le riconosce come parole. Ma non le ha mai lette.\n\nUn soffio. Poi un altro. Poi un’assenza. Le voci non parlano. Respirano. Lo spazio si piega in vibrazioni leggere, come se l’aria fosse un liquido denso.\n\nPrima comprensione: non è lui che ascolta, ma è l’aria che gli insegna a sentire.",
+      "notes": [
+        "🜄 Simbolo placeholder del primo livello linguistico (Sussurro del Respiro).",
+        "Illuminazione minima, vibrazioni che generano immagini foniche visibili.",
+        "Lerén non pronuncia nulla, ma inizia a comprendere il ritmo silenzioso.",
+        "Teaser suggerito: “La Lingua non si insegna. Si ascolta.”",
+        "Primo incontro rituale con la Lingua dei Risvegliati."
+      ]
+    },
+    {
+      "scene_id": "SCENA_8",
+      "title": "Le Prime Frasi Inudibili",
+      "location": "Sala degli Echi Residui, adiacente al Refettorio Sussurrato",
+      "linked_to": [
+        "SCENA_7",
+        "SCENA_9"
+      ],
+      "symbol": "🝕",
+      "characters": [
+        "Lerén",
+        "Archivista Cieca",
+        "Presenza uditiva anonima"
+      ],
+      "dialogue": [
+        "Lerén: ~ōnā… thē… rha…~",
+        "Archivista (in vibrazione): “Se la parola nasce, morirà. Se tace, risveglia.”"
+      ],
+      "narrative": "Il respiro ha preso forma. Ora pretende di tornare indietro.\n\nLa Sala degli Echi Residui è costruita su un punto acustico morto. Nulla può risuonare, a meno che non provenga da un’intenzione autentica. È qui che si prova a dire.\n\nLerén è solo. L’Archivista lo ha condotto lì con un gesto, poi si è ritirata. Nessuna istruzione. Solo il silenzio e una serie di iscrizioni sul pavimento, segnate con pigmento che svanisce quando osservato.\n\nLerén apre la bocca. Non dice nulla. Ma qualcosa risponde.\n\nUna corrente d’aria inverte il flusso nella sala. I lembi dei suoi abiti si sollevano. Le particelle di polvere formano strutture temporanee che durano quanto la volontà del suono.\n\nLa lingua non è emessa. È richiamata.\n\nPer la prima volta, Lerén pronuncia senza voce. E il mondo cambia.",
+      "notes": [
+        "🝕 Simbolo placeholder del quarto livello linguistico (Parola Non Udibile).",
+        "Ambiente acusticamente morto, come sotto vuoto.",
+        "Elementi visivi: polvere, movimenti d’aria legati al movimento labiale.",
+        "Frasi in Lingua dei Risvegliati trascritte foneticamente, non tradotte.",
+        "Rituale di attivazione interna, non comunicazione.",
+        "Ideale per scena sperimentale immersiva (video/VR)."
+      ]
+    },
+    {
+      "scene_id": "SCENA_9",
+      "title": "Il Sesto Risvegliato",
+      "location": "Zona 3 della città di Kaleph – Settore delle Arie Sommesse",
+      "linked_to": [
+        "SCENA_8",
+        "SCENA_10"
+      ],
+      "symbol": "⟁",
+      "characters": [
+        "Lerén",
+        "Il Sesto",
+        "Presenze armate non identificate"
+      ],
+      "dialogue": [
+        "Il Sesto: (pronuncia una frase in Lingua Innominata – incomprensibile a Lerén)",
+        "Lerén: “Tu… riesci a parlare… senza parola?”",
+        "Il Sesto: “No. Riesco a piegare.”"
+      ],
+      "narrative": "La zona 3 è la più remota di Kaleph, una rientranza ai margini della cupola fonica. Qui la distorsione acustica è instabile, come un’eco che non si decide mai da dove arrivare. Nel buio semiartificiale, Lerén percepisce una presenza.\n\nÈ il Sesto. O meglio: colui che è stato designato così nei codici interni. Non c’è nome, né archivio. Solo un resoconto: “parlò, e si spense la luce.”\n\nOra è lì. Ha un volto comune. Indossa tessuti intrecciati con nodi fonici, cuciture irregolari che reagiscono ai suoni con lievi mutazioni visive.\n\nL’incontro è silenzioso. Ma dentro Lerén qualcosa vibra. Una frase non sua affiora nella mente, come memoria trasmessa senza pronuncia.\n\nIl Sesto si piega all’indietro, e il suono del suo respiro si traduce in un glifo sulla parete. Non ha scritto. Ha piegato l’aria. E la pietra ha risposto.\n\nLerén capisce che non è il primo. Ma forse sarà l’ultimo a capire.",
+      "notes": [
+        "⟁ Simbolo placeholder associato alla Frattura del Senso.",
+        "Zona 3 è distorta acusticamente, adatta a effetti visivi/sonori instabili.",
+        "Glifo che appare nella scena: da definire visivamente come simbolo reale nel Codex.",
+        "Il Sesto è uno dei primi risvegliati e non parla mai due volte la stessa lingua.",
+        "Scena centrale per il passaggio da apprendista a testimone."
+      ]
+    },
+    {
+      "scene_id": "SCENA_10",
+      "title": "Il Patto delle Arie",
+      "location": "Camera di Convergenza del Settore E4, accesso secondario dell'Archivio Fonometrico",
+      "linked_to": [
+        "SCENA_9",
+        "SCENA_11"
+      ],
+      "symbol": "🝔",
+      "characters": [
+        "Lerén",
+        "Il Sesto",
+        "Due figure velate",
+        "Voce interna dell’Archivio"
+      ],
+      "dialogue": [
+        "Voce Archivio: “Qui giurano i non udibili. Le parole non dette sigillano i vincoli.”",
+        "Figura velata: “Nessun nome. Nessun giuramento. Solo la piega.”",
+        "Lerén: “Non voglio più parlare. Ma voglio che qualcosa resti.”"
+      ],
+      "narrative": "La Camera di Convergenza non è accessibile da nessun percorso tracciato. Il Sesto guida Lerén attraverso condotti d’aria, scale mute e piani senza eco. La porta si apre solo dopo una frase che non può essere scritta.\n\nDentro, tre figure attendono. Due sono velate. La terza è un eco. L’aria è composta, stratificata, come se ogni respiro passato fosse ancora lì, sedimentato.\n\nNon si discute. Non si nomina. Ma si ascolta.\n\nUn patto si sigla: non con firme, né con formule. Con vibrazioni. Ogni presente emette un impulso che viene registrato dall’aria stessa.\n\nÈ il Patto delle Arie: chi lo infrange, perde la capacità di piegare. Chi lo mantiene, è parte del ciclo che precede la Frattura finale.",
+      "notes": [
+        "🝔 Simbolo placeholder per ‘patto sigillato attraverso aria’.",
+        "Scena simbolica, non esplicativa, fortemente atmosferica.",
+        "Le figure velate rappresentano Risvegliati di ordini superiori.",
+        "Vibrazioni: potenzialmente rappresentate visivamente con flussi animati o grafica sonora.",
+        "Scena utile a introdurre la ‘convergenza’ come concetto narrativo e grammaticale (linguistica collettiva)."
+      ]
+    },
+    {
+      "scene_id": "SCENA_11",
+      "title": "Il Gesto che Ricorda",
+      "location": "Cortile dei Ricettacoli, zona interdetta del distretto sud",
+      "linked_to": [
+        "SCENA_10",
+        "SCENA_12"
+      ],
+      "symbol": "☌",
+      "characters": [
+        "Lerén",
+        "Anziana senza lingua",
+        "Giovane apprendista",
+        "Presenza silenziosa (non identificata)"
+      ],
+      "dialogue": [
+        "Apprendista: “Perché continua a ripetere quel movimento?”",
+        "Lerén: “Perché è un gesto che contiene ciò che non può più essere detto.”",
+        "Voce interiore: “Ricorda. Ricorda senza suono.”"
+      ],
+      "narrative": "Nel cortile dei Ricettacoli si raccolgono gli scarti della comunicazione: frasi incomplete, manoscritti corrotti, echi registrati. È qui che Lerén incontra una figura anziana che non parla, non scrive, ma ripete un gesto.\n\nSempre lo stesso.\n\nLerén lo osserva. L’apprendista no. L’apprendista guarda ma non vede.\n\nIl gesto evoca un glifo, poi un secondo, poi una connessione. Un linguaggio muto che si propaga tra corpi, non più suoni, ma configurazioni del respiro e delle mani.\n\nIl Gesto che Ricorda è una grammatica ancestrale, rimasta impressa in pochi. Chi lo osserva, se sa ascoltare con gli occhi, ne riceve memoria.\n\nLerén capisce. E ricorda ciò che non ha mai vissuto.",
+      "notes": [
+        "☌ Simbolo per linguaggio muto della memoria condivisa.",
+        "Il gesto è una forma di trasmissione, pre-linguistica, visiva e fonica al tempo stesso.",
+        "Scena fondamentale per la riscoperta della Lingua dei Risvegliati.",
+        "La figura silenziosa può essere utilizzata in seguito come custode dei gesti."
+      ]
+    },
+    {
+      "scene_id": "SCENA_12",
+      "title": "Silenzio di Nodo",
+      "location": "Cripta inferiore della Torre di Ascolto, Kaleph",
+      "linked_to": [
+        "SCENA_11"
+      ],
+      "symbol": "⸮",
+      "characters": [
+        "Lerén",
+        "Il Nodo stesso (presenza invisibile)",
+        "Presidio d’ascolto abbandonato"
+      ],
+      "dialogue": [
+        "Voce interna (Lerén): “Ora che ho imparato a non dire, posso ascoltare ciò che non suona.”"
+      ],
+      "narrative": "Nel cuore della città, sotto la Torre di Ascolto, si trova una cripta senza finestre, né condutture. È il luogo dove il Nodo venne per la prima volta avvertito, ma non registrato.\n\nLerén scende da solo, senza strumenti, senza parole. Ogni passo è accolto da un silenzio denso, non assenza di suono, ma sua memoria compressa.\n\nIn mezzo alla sala, un dispositivo fonico spento emette un impulso ritmico: silenzioso, ma percepibile.\nNon comunica. Ma chi è stato piegato, sente.\n\nLerén si siede. Non fa nulla. Il Nodo si manifesta non come voce, ma come mutamento d’atmosfera. L’umidità cambia, la pressione varia, e una sensazione di parola non detta si deposita sulle ossa.\n\nÈ il linguaggio del Nodo. E Lerén, finalmente, tace per ascoltarlo.",
+      "notes": [
+        "⸮ Simbolo per l’interrogazione muta, tipico del Nodo.",
+        "Scena finale del primo libro, chiude il ciclo del primo Risveglio.",
+        "Può essere rappresentata visivamente con un contrasto tra buio statico e onde invisibili.",
+        "Introduzione implicita del concetto di Linguaggio del Nodo (da sviluppare nel Libro II)."
+      ]
+    }
+  ],
+  "bestiario": [
+    {
+      "id": "BE001",
+      "nome": "",
+      "nome_innominata": "",
+      "tipo": "",
+      "glifo": "",
+      "descrizione": "",
+      "funzione_narrativa": "",
+      "percezione_risvegliati": "",
+      "simbolo_associato": "",
+      "citazione": ""
+    }
+  ],
+  "tracking_produzione": {
+    "aggiornato_al": "2025-06-04 21:55",
+    "fasi": [
+      {
+        "fase": "FASE 0 – Propedeutica",
+        "stato": "✅",
+        "percentuale": 100
+      },
+      {
+        "fase": "FASE 1 – Struttura narrativa e linguistica",
+        "stato": "✅",
+        "percentuale": 100
+      },
+      {
+        "fase": "FASE 2 – Costruzione del mondo",
+        "stato": "⚠️",
+        "percentuale": 80
+      },
+      {
+        "fase": "FASE 3 – Personaggi",
+        "stato": "⚠️",
+        "percentuale": 60
+      },
+      {
+        "fase": "FASE 4 – Sistema simbolico e mitico",
+        "stato": "✅",
+        "percentuale": 100
+      },
+      {
+        "fase": "FASE 5 – Scene narrative",
+        "stato": "⚠️",
+        "percentuale": 90
+      },
+      {
+        "fase": "FASE 6 – Appendici e materiali paralleli",
+        "stato": "⚠️",
+        "percentuale": 60
+      },
+      {
+        "fase": "FASE 7 – Pre-stesura e redazione",
+        "stato": "⬜",
+        "percentuale": 0
+      },
+      {
+        "fase": "FASE 8 – Marketing e pubblicazione",
+        "stato": "⚠️",
+        "percentuale": 40
+      }
+    ],
+    "percentuale_totale_stimata": 70
+  },
+  "1.1 - Protagonista": {
+    "soglie_cambiamento": [
+      "Primo sussurro non comprensibile",
+      "Prima parola Innominata pronunciata",
+      "Simbolo onirico premonitore"
+    ],
+    "annotazioni_simboliche": [
+      "Glifo inciso sulla pelle",
+      "Eco interiore come guida linguistica"
+    ]
+  },
+  "2.2 - Geografia del mondo": {
+    "elementi_da_aggiungere": [
+      "Archetipo climatico per ogni città",
+      "Tipo di linguaggio dominante",
+      "Presenza/assenza di Arche e glifi"
+    ],
+    "suggerimento": "Creare un atlante simbolico allegato"
+  },
+  "2.5 - Bestiario": {
+    "classi": [
+      "Creatura evocata",
+      "Manifestazione semantica",
+      "Predatori acustici"
+    ],
+    "dettagli_per_voce": [
+      "Nome",
+      "Simbolo",
+      "Ambiente",
+      "Effetto narrativo",
+      "Modalità di risveglio"
+    ]
+  },
+  "3.3 - Simboli Narrativi": {
+    "evento_manifestazione": "Ogni simbolo deve comparire in almeno una scena",
+    "associazione_necessaria": "Almeno una visione, sogno o evento narrativo reale"
+  },
+  "5.3 - Collegamento alle scene narrative": {
+    "simboli_attivati": [
+      "Chiave Muta",
+      "Arca del Nodo"
+    ],
+    "stato_simboli": {
+      "Chiave Muta": "risvegliato",
+      "Arca del Nodo": "risvegliato"
+    }
+  },
+  "6.1 - Codex Lingua Innominata": {
+    "azioni": [
+      "Integrare ogni frase triadica in una scena narrativa",
+      "Collegare ogni glifo madre a un personaggio o evento"
+    ]
+  },
+  "scene": [
+    {
+      "numero": 1,
+      "titolo": "Smarrirsi in Kaleph",
+      "sequenza_collegata": "1.1 – Smarrirsi in Kaleph",
+      "stile": "narrativo poetico",
+      "protagonista": "Larén",
+      "coerenza_outline": false,
+      "collegamenti_codex": true,
+      "testo": "Larén camminava come se ricordasse qualcosa che non era mai accaduto...\n...Nelle città dove tutto ha un nome, perdersi è l’unico modo per essere reali."
+    },
+    {
+      "numero": 4,
+      "titolo": "L’Arca del Nodo",
+      "sequenza_collegata": "1.4 – La Piega dell’Aria",
+      "stile": "narrativo poetico – simbolico",
+      "protagonista": "Larén",
+      "coerenza_outline": false,
+      "collegamenti_codex": true,
+      "testo": "Larén si era smarrito con intenzione.\nIn Kaleph, smarrirsi era un reato semantico. Ogni strada aveva un nome. Ogni nome aveva un numero. Ogni numero una declinazione.\nEppure lui, quel giorno, aveva imboccato un corridoio non verificato.\n\nLe pareti pulsavano a intermittenza. Luci foniche. Segnali di mutazione architettonica.\nIl settore E4 non doveva essere accessibile. Ma non lo era già da settimane. L’archivio si era chiuso su sé stesso.\nCome una parola che non vuole più essere pronunciata.\n\n“Nelle città dove le parole sono pareti, il silenzio è il solo passaggio.”\n(Codex Kaleph, versetto 201)\n\nEra attratto da quella stanza come da un ricordo che non sapeva di avere.\nLa porta non aveva scritta. Solo una vibrazione sorda, ritmica.\n\nEntrò.\n\nLa sala era una spirale.\nI banchi fonometrici, disposti in cerchi decrescenti, puntavano al centro:\nuna teca di trasparenza assoluta, in cui non si vedeva nulla.\n\nAttorno, pannelli di registrazione fonica.\nVoci archiviate, sillabe eliminate, parole soppresse.\nTutte scritte in traslitterazione neutra, la più sterile delle forme.\n\nLarén si avvicinò.\nUn pensiero lo attraversò senza parole:\n“Qualcosa è qui da prima della struttura.”\n\nSi chinò sulla teca. Non c’era nulla.\nSolo un’ombra di forma assente.\n\n“Il Nodo è ciò che resta quando il linguaggio cede.”\n(Appendice del Lexicon Inverso)\n\nLarén aprì la bocca.\nNon pensava. Non cercava. Non ricordava.\nDisse.\n\n“Aémor.”\n\nNon un grido.\nUna fenditura nel suono.\n\nLa stanza si piegò senza muoversi.\nLe pareti emisero una nota che non apparteneva a nessuna scala.\nI pannelli registrarono per la prima volta una parola senza origine.\n\nLa teca si frantumò senza fare rumore.\nSotto di essa, un passaggio verticale, come un respiro che va giù invece che fuori.\n\n“Ogni città sigillata contiene almeno una porta che non doveva esistere.\nQuella porta ha un solo custode: chi ha smesso di cercarla.”\n(Voce interna non identificata – Codice non attribuito)\n\nLarén non si mosse.\nIl suo corpo tremava, ma la sua mente era ferma.\nNon aveva capito. Ma aveva sentito.\n\nE quella sensazione era più chiara di qualsiasi parola che avesse mai studiato."
+    }
+  ],
+  "validazione": {
+    "roadmap": {
+      "status": "validato",
+      "hash": "6c6ffb06b8b8c5096d2276d5c4dbb5401c945093af6dfc011630ee350985d00c",
+      "data": "2025-06-05"
+    },
+    "calendario": {
+      "status": "validato",
+      "hash": "b7032a2e40b392ed1fb94fad688bde1746932639d51011b6efe29be78bba517a",
+      "data": "2025-06-05"
+    }
+  },
+  "lock": {
+    "roadmap": true,
+    "calendario": true
+  },
+  "registro_versioni": [
+    {
+      "versione": "v17",
+      "note": "Inserita struttura di validazione, lock, registro versioni",
+      "data": "2025-06-05"
+    }
+  ],
+  "validazione_scene": {
+    "Scena 1": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 2": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 3": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 4": {
+      "stato": "✅ testo presente",
+      "simboli_collegati": "❓ da associare",
+      "glifi_collegati": "❓ da associare",
+      "tono_verificato": "⚠️ non dichiarato"
+    },
+    "Scena 5": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 6": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 7": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 8": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 9": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 10": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 11": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 12": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    },
+    "Scena 13": {
+      "stato": "⬜ testo mancante",
+      "simboli_collegati": "⬜",
+      "glifi_collegati": "⬜",
+      "tono_verificato": "⬜"
+    }
+  },
+  "log_contenuti_approvati": [
+    {
+      "contenuto": "Scena 4 – Larén, Arca del Nodo",
+      "stato": "✅ integrato",
+      "data_approvazione": "2025-06-06",
+      "fonte": "chat approvata",
+      "note": "Smarrimento rituale, attivazione dell'Arca"
+    }
+  ],
+  "check_SCEM_attivi": {
+    "glifi_attesi": 27,
+    "glifi_presenti": 0,
+    "simboli_attesi": 5,
+    "simboli_presenti": 2,
+    "scene_collegate_a_media": 1,
+    "scene_totali": 13,
+    "verifica": "⚠️ Parziale – SCEM strutturato ma non popolato"
+  },
+  "errore_blocchi": [
+    {
+      "blocco": "scene",
+      "tipo": "incomplete",
+      "descrizione": "12 su 13 scene non hanno testo",
+      "gravità": "alta"
+    },
+    {
+      "blocco": "SCEM",
+      "tipo": "vuoti",
+      "descrizione": "Cartelle glifi e simboli definite ma non collegate a scene",
+      "gravità": "media"
+    },
+    {
+      "blocco": "validazione_scene",
+      "tipo": "mancanze",
+      "descrizione": "Simboli e glifi non associati alle scene",
+      "gravità": "media"
+    }
+  ],
+  "comandi_disponibili": {
+    "@inserisci_scena(n)": "Inserisce o aggiorna la scena numero n con testo approvato",
+    "@estrai_testo(n)": "Estrae il testo della scena numero n dal JSON",
+    "@aggiorna_file(versione)": "Salva una nuova versione del master con log aggiornato",
+    "@stato_scene()": "Mostra lo stato di compilazione di tutte le scene",
+    "@check_integrità()": "Verifica se tutti i contenuti approvati sono presenti nel file",
+    "@log_approvato(nome, data)": "Aggiunge un contenuto approvato al log interno",
+    "@prossimi_passi()": "Suggerisce le prossime azioni logiche sulla base dello stato del file",
+    "@sincronizza_SCEM()": "Collega simboli e glifi alle scene tramite il sistema SCEM",
+    "@verifica_coerenza()": "Controlla allineamento tra scene, simboli, glifi, roadmap e contenuti approvati",
+    "@archivia()": "Esegue il salvataggio completo della versione corrente nel log modifiche"
+  },
+  "task_corrente": {
+    "descrizione": "Revisione dell'outline narrativo in 3 atti e 12 sequenze + collegamento con le 13 scene",
+    "comando_suggerito": "@rivedi_outline()",
+    "stato": "in corso",
+    "priorità": "massima",
+    "data_inizio": "2025-06-06T06:14:54.015242"
+  },
+  "personaggi": {
+    "Larén": {
+      "ruolo": "Protagonista del risveglio e attivatore della prima Arca",
+      "presenza": "Tutti e tre i libri",
+      "città": "Kaleph",
+      "evento_chiave": "Piega l’aria di fronte all’Arca del Nodo",
+      "tratti_distintivi": "Silenzioso, lucido, si smarrisce volontariamente. Linguaggio introverso, sente le parole come corpi.",
+      "simboli_associati": [
+        "🝉",
+        "Eco Sordo"
+      ],
+      "relazioni": [
+        "Archivista Cieca",
+        "Arisel"
+      ],
+      "note": "Incarnazione della prima Frattura. Il suo nome inizia con 'L' come “Lingua” e “Lama”."
+    },
+    "Archivista Cieca": {
+      "ruolo": "Custode delle memorie sonore pre-frattura",
+      "presenza": "Libri I–III",
+      "luogo": "Settore fonemico segreto di Kaleph",
+      "tratti": "Non parla. Registra. Riconosce le piegature dell’aria.",
+      "aspetto": "Incappucciata, occhi chiusi, indossa un velo che vibra",
+      "simboli_associati": [
+        "Eco Sordo",
+        "Nodo della Voce"
+      ],
+      "note": "È il primo personaggio che riconosce il risveglio di Larén."
+    },
+    "Arisel": {
+      "ruolo": "Guida liminale dei Risvegliati",
+      "presenza": "Libri I–III (sogni, apparizioni, visioni)",
+      "tratti": "Cammina tra le parole senza pronunciarle. Si manifesta nei sogni e nei riti.",
+      "funzione_narrativa": "Connette passato e futuro del linguaggio",
+      "parole_chiave": [
+        "Rituale",
+        "Silenzio",
+        "Soglia"
+      ],
+      "note": "Potrebbe essere stata la prima Risvegliata, o solo un’eco."
+    },
+    "Il Bambino che Tose": {
+      "ruolo": "Simbolo della prima trasmissione spontanea della Lingua dei Risvegliati",
+      "presenza": "Libro I (orfanotrofio)",
+      "scena": "Piega l’aria per la prima volta durante un rito",
+      "significato": "È l’innocenza che tocca la Frattura.",
+      "note": "Può diventare centrale nello spin-off dell’orfanotrofio."
+    },
+    "Il Primo Muto": {
+      "ruolo": "Figura archetipica. Ha perso la voce pronunciando la Lingua Innominata.",
+      "presenza": "Libri II–III (tramite sogni, frammenti)",
+      "funzione": "Avverte, non parla. Lascia simboli e glifi nei luoghi della Frattura.",
+      "simboli": [
+        "Lingua bruciata",
+        "Bocca chiusa da cicatrice"
+      ],
+      "note": "Potrebbe essere la controparte oscura di Arisel."
+    },
+    "Nyrah": {
+      "ruolo": "Ricercatrice linguistica in esilio",
+      "presenza": "Libro I (da sequenza 5 in poi)",
+      "luogo": "Varn, poi Kaleph",
+      "tratti": "Determinata, isolata, affetta da eco-linguaggio",
+      "relazione_con_laren": "Da studiosa a compagna nel risveglio",
+      "note": "La sua funzione evolve: da scettica a iniziata."
+    }
+  },
+  "outline": {},
+  "sistema_comandi_guidati": true,
+  "salvataggio_automatico": true,
+  "ultima_versione": "v24_10_COMANDI_AUTOSAVE"
+}
